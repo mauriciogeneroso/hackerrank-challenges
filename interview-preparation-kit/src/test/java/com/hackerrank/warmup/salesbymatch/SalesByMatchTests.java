@@ -1,0 +1,69 @@
+package com.hackerrank.warmup.salesbymatch;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class SalesByMatchTests {
+
+    private SalesByMatch salesByMatch = new SalesByMatch();
+
+    @Test
+    public void algorithm1TestCase1() {
+        // Arrange
+        int[] ar = {1, 2, 1, 2, 1, 3, 2}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(2, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm1TestCase2() {
+        // Arrange
+        int[] ar = {1, 1, 3, 1, 2, 1, 3, 3, 3, 3}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(4, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm1TestCase3() {
+        // Arrange
+        int[] ar = {10, 20, 20, 10, 10, 30, 50, 10, 20}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(4, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm2TestCase1() {
+        // Arrange
+        int[] ar = {1, 2, 1, 2, 1, 3, 2}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant2(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(2, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm2TestCase2() {
+        // Arrange
+        int[] ar = {1, 1, 3, 1, 2, 1, 3, 3, 3, 3}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant2(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(4, numberOgMatchingPairs);
+    }
+}
