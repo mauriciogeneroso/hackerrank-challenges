@@ -2,20 +2,22 @@
 
 This repository is used to storage my solutions for hackerrank challenges using Java. 
 
-Chalenges:
+---
+#### Chalenges:
+ 
  * Java
  * 30 Days of Code
  * Interview preparation kit
  * Problem Solving
 
 ---
-## 30 Days of Code
+### 30 Days of Code
 
 - [30 Days of code webpage](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 | Challenge     | Solution      
 | ------------- |:-------------:| 
-| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)     | [Solution](https://github.com/mauriciogeneroso/hackerrank-challenges/blob/main/30DaysOfCode/src/com/hackerrank/thrirtydaysofcode/day0helloworld/Solution.java)| 
+| [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)     | [Solution](https://github.com/mauriciogeneroso/hackerrank-challenges/blob/main/30daysOfCode/src/com/hackerrank/thrirtydaysofcode/day0helloworld/Solution.java)| 
 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)     | [Solution](https://github.com/mauriciogeneroso/hackerrank-challenges/blob/main/30DaysOfCode/src/com/hackerrank/thrirtydaysofcode/day1datatypes/Solution.java)| 
 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)     | [Solution](https://github.com/mauriciogeneroso/hackerrank-challenges/blob/main/30DaysOfCode/src/com/hackerrank/thrirtydaysofcode/day2operators/Solution.java)| 
 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)     | [Solution](https://github.com/mauriciogeneroso/hackerrank-challenges/blob/main/30DaysOfCode/src/com/hackerrank/thrirtydaysofcode/day3conditionalstatements/Solution.java)| 
