@@ -79,3 +79,8 @@
 | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](./sql/basic-select/18.higher-than-75-marks.sql) | Easy | Basic |
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](./sql/basic-select/19.employee-names.sql) | Easy | Basic |
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](./sql/basic-select/19.employee-salaries.sql) | Easy | Basic |
+| Advanced SQL | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](./sql/advanced-select/1.type-of-triangle.sql) | Easy | Basic |
+| Advanced SQL | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](./sql/advanced-select/2.the-pads.sql) | Medium | Basic |
+| Advanced SQL | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](./sql/advanced-select/3.occupations.sql) | Medium | Advanced|
+| Advanced SQL | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](./sql/advanced-select/4.binary-tree-nodes.sql) | Medium | Intermediate |
+| Advanced SQL | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](./sql/advanced-select/5.new-companies.sql) | Medium | Intermediate |
