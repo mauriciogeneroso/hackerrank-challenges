@@ -1,0 +1,6 @@
+SELECT (SELECT COUNT(1) 
+          FROM STATION)
+          -
+        (SELECT COUNT(DISTINCT(CITY)) 
+           FROM STATION)
+ FROM DUAL;
