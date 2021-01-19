@@ -1,4 +1,4 @@
-package com.hackerrank.warmup.salesbymatch;
+package com.hackerrank.warmup;
 
 import org.junit.Assert;
 import org.junit.Test;

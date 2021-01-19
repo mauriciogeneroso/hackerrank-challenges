@@ -1,4 +1,4 @@
-package com.hackerrank.warmup.salesbymatch;
+package com.hackerrank.warmup;
 
 import java.util.Arrays;
 import java.util.HashMap;
