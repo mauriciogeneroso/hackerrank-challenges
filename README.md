@@ -11,7 +11,7 @@
  * [30 Days of Code](#30-days-of-code)
  * [SQL](#sql)
  * Java
- * Interview preparation kit
+ * [Interview preparation kit](#interview-preparation-kit)
  * Problem Solving
 
 ---
@@ -84,3 +84,15 @@
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](./sql/advanced-select/3.occupations.sql) | Medium | Advanced|
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](./sql/advanced-select/4.binary-tree-nodes.sql) | Medium | Intermediate |
 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](./sql/advanced-select/5.new-companies.sql) | Medium | Intermediate |
+
+---
+### Interview preparation kit
+
+- [Interview preparation kit webpage](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
+
+| Subdomains | Challenge     | Solution | Difficult |
+| ------------- | ------------- |:-------------:| ------------- |
+| Warm-up Challenges | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/warmup/SalesByMatch.java) | Easy |
+| Warm-up Challenges | [Couting Vallyes](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Solution | Easy |
+| Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Solution | Easy |
+| Warm-up Challenges | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | Solution | Easy |
