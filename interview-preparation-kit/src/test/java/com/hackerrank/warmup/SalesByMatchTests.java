@@ -8,7 +8,7 @@ public class SalesByMatchTests {
     private SalesByMatch salesByMatch = new SalesByMatch();
 
     @Test
-    public void algorithm1TestCase1() {
+    public void algorithm1_testCase1() {
         // Arrange
         int[] ar = {1, 2, 1, 2, 1, 3, 2}; // pairs
 
@@ -20,7 +20,7 @@ public class SalesByMatchTests {
     }
 
     @Test
-    public void algorithm1TestCase2() {
+    public void algorithm1_testCase2() {
         // Arrange
         int[] ar = {1, 1, 3, 1, 2, 1, 3, 3, 3, 3}; // pairs
 
@@ -32,7 +32,7 @@ public class SalesByMatchTests {
     }
 
     @Test
-    public void algorithm1TestCase3() {
+    public void algorithm1_testCase3() {
         // Arrange
         int[] ar = {10, 20, 20, 10, 10, 30, 50, 10, 20}; // pairs
 
@@ -40,11 +40,11 @@ public class SalesByMatchTests {
         int numberOgMatchingPairs = salesByMatch.sockMerchant(ar.length, ar);
 
         // Assert
-        Assert.assertEquals(4, numberOgMatchingPairs);
+        Assert.assertEquals(3, numberOgMatchingPairs);
     }
 
     @Test
-    public void algorithm2TestCase1() {
+    public void algorithm2_testCase1() {
         // Arrange
         int[] ar = {1, 2, 1, 2, 1, 3, 2}; // pairs
 
@@ -56,7 +56,7 @@ public class SalesByMatchTests {
     }
 
     @Test
-    public void algorithm2TestCase2() {
+    public void algorithm2_testCase2() {
         // Arrange
         int[] ar = {1, 1, 3, 1, 2, 1, 3, 3, 3, 3}; // pairs
 
@@ -65,5 +65,53 @@ public class SalesByMatchTests {
 
         // Assert
         Assert.assertEquals(4, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm2_testCase3() {
+        // Arrange
+        int[] ar = {10, 20, 20, 10, 10, 30, 50, 10, 20}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant2(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(3, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm4_testCase1() {
+        // Arrange
+        int[] ar = {1, 2, 1, 2, 1, 3, 2}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant4(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(2, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm4_testCase2() {
+        // Arrange
+        int[] ar = {1, 1, 3, 1, 2, 1, 3, 3, 3, 3}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant4(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(4, numberOgMatchingPairs);
+    }
+
+    @Test
+    public void algorithm4_testCase3() {
+        // Arrange
+        int[] ar = {10, 20, 20, 10, 10, 30, 50, 10, 20}; // pairs
+
+        // Act
+        int numberOgMatchingPairs = salesByMatch.sockMerchant4(ar.length, ar);
+
+        // Assert
+        Assert.assertEquals(3, numberOgMatchingPairs);
     }
 }
