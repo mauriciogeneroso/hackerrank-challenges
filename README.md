@@ -12,7 +12,7 @@
  * [SQL](#sql)
  * Java
  * [Interview preparation kit](#interview-preparation-kit)
- * Problem Solving
+ * [Algorithms/Problem Solving](#Algorithms)
 
 ---
 ### 30 Days of Code
@@ -96,8 +96,8 @@
 | Warm-up Challenges | [Couting Vallyes](https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/warmup/CountingValleys.java) | Easy |
 | Warm-up Challenges | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/warmup/JumpingOnTheClouds.java) | Easy |
 | Warm-up Challenges | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/warmup/RepeatedString.java) | Easy |
-| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | | Easy |
-| Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | | Easy |
+| Arrays | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/array/Array2D.java) | Easy |
+| Arrays | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | [Solution](./interview-preparation-kit/src/main/java/com/hackerrank/array/LeftRotation.java) | Easy |
 | Arrays | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | | Medium |
 | Arrays | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | | Medium |
 | Arrays | [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays) | | Hard |
@@ -106,3 +106,21 @@
 | Dictionaries and Hashmaps | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | | Medium |
 | Dictionaries and Hashmaps | [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | | Medium |
 | Dictionaries and Hashmaps | [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps) | | Medium |
+
+---
+### Algorithms
+
+- [Algorithms webpage](https://www.hackerrank.com/domains/algorithms)
+
+| Subdomains | Challenge     | Solution | Difficult | Skills |
+| ------------- | ------------- |:-------------:| ------------- | ------------- |
+| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | | Easy | Problem Solving (Basic) |
