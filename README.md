@@ -12,7 +12,7 @@
  * [SQL](#sql)
  * Java
  * [Interview preparation kit](#interview-preparation-kit)
- * [Algorithms/Problem Solving](#Algorithms)
+ * [Algorithms/Problem Solving](#algorithms)
 
 ---
 ### 30 Days of Code
@@ -84,6 +84,39 @@
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](./sql/advanced-select/3.occupations.sql) | Medium | Advanced|
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](./sql/advanced-select/4.binary-tree-nodes.sql) | Medium | Intermediate |
 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](./sql/advanced-select/5.new-companies.sql) | Medium | Intermediate |
+| Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | | Easy | Basic |
+| Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | | Easy | Basic |
+| Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | | Easy | Basic |
+| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | | Easy | Basic |
+| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | | Easy | Basic |
+| Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | | Easy | Basic |
+| Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | | Easy | Basic |
+| Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | | Easy | Basic |
+| Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | | Medium | Basic |
+| Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | | Medium | Basic |
+| Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | | Medium | Intermediate |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | | Basic | Easy |
+| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | | Basic | Easy |
+| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | | Basic | Easy |
+| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | | Medium | Intermediate |
+| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | | Medium | Intermediate |
+| Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | | Medium | Intermediate |
+| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | | Medium | Intermediate |
+| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | | Medium | Intermediate |
+| Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | | Medium | Intermediate |
+| Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem) | | Medium | Intermediate |
+| Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | | Medium | Intermediate |
+| Advanced Join | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | | Hard | Intermediate |
+| Advanced Join | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | | Hard | Advanced |
+| Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | | Easy | Advanced |
+| Advanced Join | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | | Easy | Advanced |
+| Advanced Join | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | | Medium | Advanced |
 
 ---
 ### Interview preparation kit
