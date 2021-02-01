@@ -101,10 +101,10 @@
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](./sql/aggregation/15.weather-observation-station-18.sql) | Medium | Basic |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](./sql/aggregation/16.weather-observation-station-19.sql) | Medium | Basic |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | | Medium | Intermediate |
-| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | | Basic | Easy |
-| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | | Basic | Easy |
-| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | | Basic | Easy |
-| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | | Medium | Intermediate |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](./sql/basic-join/1.asia-population.sql) | Basic | Easy |
+| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](./sql/basic-join/2.africa-cities.sql) | Basic | Easy |
+| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](./sql/basic-join/3.population-avg.sql) | Basic | Easy |
+| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](./sql/basic-join/4.the-report.sql) | Medium | Intermediate |
 | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | | Medium | Intermediate |
 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | | Medium | Intermediate |
 | Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | | Medium | Intermediate |
