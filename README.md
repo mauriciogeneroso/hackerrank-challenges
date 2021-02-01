@@ -98,8 +98,8 @@
 | Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](./sql/aggregation/12.weather-observation-station-15.sql) | Easy | Basic |
 | Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](./sql/aggregation/13.weather-observation-station-16.sql) | Easy | Basic |
 | Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](./sql/aggregation/14.weather-observation-station-17.sql) | Easy | Basic |
-| Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | | Medium | Basic |
-| Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | | Medium | Basic |
+| Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](./sql/aggregation/15.weather-observation-station-18.sql) | Medium | Basic |
+| Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](./sql/aggregation/16.weather-observation-station-19.sql) | Medium | Basic |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | | Medium | Intermediate |
 | Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | | Basic | Easy |
 | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | | Basic | Easy |
