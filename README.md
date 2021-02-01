@@ -84,20 +84,20 @@
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](./sql/advanced-select/3.occupations.sql) | Medium | Advanced|
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](./sql/advanced-select/4.binary-tree-nodes.sql) | Medium | Intermediate |
 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](./sql/advanced-select/5.new-companies.sql) | Medium | Intermediate |
-| Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | | Easy | Basic |
-| Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | | Easy | Basic |
-| Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | | Easy | Basic |
-| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | | Easy | Basic |
-| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | | Easy | Basic |
-| Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | | Easy | Basic |
-| Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | | Easy | Basic |
-| Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | | Easy | Basic |
-| Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | | Easy | Basic |
+| Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](./sql/aggregation/1.the-count-function.sql) | Easy | Basic |
+| Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](./sql/aggregation/2.the-sum-function.sql) | Easy | Basic |
+| Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](./sql/aggregation/3.averages.sql) | Easy | Basic |
+| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](./sql/aggregation/4.average-population.sql) | Easy | Basic |
+| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](./sql/aggregation/5.japan-population.sql) | Easy | Basic |
+| Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](./sql/aggregation/6.population-density-difference.sql) | Easy | Basic |
+| Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](./sql/aggregation/7.the-blunder.sql) | Easy | Basic |
+| Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](./sql/aggregation/8.top-earners.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](./sql/aggregation/9.weather-observation-station-2.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](./sql/aggregation/10.weather-observation-station-13.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](./sql/aggregation/11.weather-observation-station-14.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](./sql/aggregation/12.weather-observation-station-15.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](./sql/aggregation/13.weather-observation-station-16.sql) | Easy | Basic |
+| Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](./sql/aggregation/14.weather-observation-station-17.sql) | Easy | Basic |
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | | Medium | Basic |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | | Medium | Basic |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | | Medium | Intermediate |
