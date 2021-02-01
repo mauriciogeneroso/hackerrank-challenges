@@ -157,10 +157,10 @@
 
 | Subdomains | Challenge     | Solution | Difficult | Skills |
 | ------------- | ------------- |:-------------:| ------------- | ------------- |
-| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | | Easy | Problem Solving (Basic) |
-| Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | | Easy | Problem Solving (Basic) |
-| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | | Easy | Problem Solving (Basic) |
-| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | | Easy | Problem Solving (Basic) |
+| Warmup | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](./problem-solving/src/main/java/com/hackerrank/ps/algorithms/warmup/SolveMeFirst.java) | Easy | Problem Solving (Basic) |
+| Warmup | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](./problem-solving/src/main/java/com/hackerrank/ps/algorithms/warmup/SimpleArraySum.java) | Easy | Problem Solving (Basic) |
+| Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](./problem-solving/src/main/java/com/hackerrank/ps/algorithms/warmup/CompareTheTriplets.java) | Easy | Problem Solving (Basic) |
+| Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](./problem-solving/src/main/java/com/hackerrank/ps/algorithms/warmup/AVeryBigArray.java) | Easy | Problem Solving (Basic) |
 | Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | | Easy | Problem Solving (Basic) |
 | Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | | Easy | Problem Solving (Basic) |
 | Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | | Easy | Problem Solving (Basic) |
