@@ -12,7 +12,7 @@
  * [SQL](#sql)
  * Java
  * [Interview preparation kit](#interview-preparation-kit)
- * [Algorithms/Problem Solving](#algorithms)
+ * [Algorithms/Problem Solving](#problem-solving---algorithms)
 
 ---
 ### 30 Days of Code
@@ -151,7 +151,7 @@
 | String Manipulation | [Common Child](https://www.hackerrank.com/challenges/common-child/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings) | | Medium |
 
 ---
-### Algorithms
+### Problem Solving - Algorithms
 
 - [Algorithms webpage](https://www.hackerrank.com/domains/algorithms)
 
