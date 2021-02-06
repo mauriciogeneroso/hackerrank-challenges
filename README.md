@@ -35,7 +35,7 @@
 | 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day11arrays2d/Solution.java)| Easy |
 | 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day12inheritance/Solution.java)| Easy |
 | 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day13abstractclass/Solution.java)| Easy |
-| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day14scope)| Easy |
+| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day14scope/Solution.java)| Easy |
 | 15 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day15linkedlist/Solution.java)| Easy |
 | 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day16exceptions/Solution.java)| Easy |
 | 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day17moreexceptions/Solution.java)| Easy |
@@ -44,12 +44,12 @@
 | 20 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day20sorting/Solution.java)| Easy |
 | 21 | [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day21generics/Generics.java)| Easy |
 | 22 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day22binarysearchtrees/Solution.java)| Easy |
-| 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](./main/30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day23bstlevelorder/Solution.java)| Easy |
-| 24 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](./main/30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day24morelinkedlists/Solution.java)| Easy |
+| 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day23bstlevelorder/Solution.java)| Easy |
+| 24 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day24morelinkedlists/Solution.java)| Easy |
 | 25 | [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day25timeandcomplexity/Solution.java)| Easy |
 | 26 | [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day26nestedlogic/Solution.java) | Easy |
 | 27 | [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day27testing/Solution.java) | Easy |
-| 28 | [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](./main/30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day28regex/Solution.java) | Medium | 
+| 28 | [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day28regex/Solution.java) | Medium | 
 | 29 | [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](./30-days-of-code/src/com/hackerrank/thrirtydaysofcode/day29bitwise/Solution.java) | Medium |
 
 ---
