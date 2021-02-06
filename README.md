@@ -105,10 +105,10 @@
 | Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](./sql/basic-join/2.africa-cities.sql) | Basic | Easy |
 | Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](./sql/basic-join/3.population-avg.sql) | Basic | Easy |
 | Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](./sql/basic-join/4.the-report.sql) | Medium | Intermediate |
-| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | | Medium | Intermediate |
+| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](./sql/basic-join/5.the-competitors.sql) | Medium | Intermediate |
 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | | Medium | Intermediate |
-| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | | Medium | Intermediate |
-| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | | Medium | Intermediate |
+| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](./sql/basic-join/7.challenges.sql) | Medium | Intermediate |
+| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](./sql/basic-join/8.contest-leaderboard.sql) | Medium | Intermediate |
 | Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | | Medium | Intermediate |
 | Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem) | | Medium | Intermediate |
 | Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | | Medium | Intermediate |
