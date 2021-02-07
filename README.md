@@ -182,10 +182,10 @@
 | Advanced | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) | | Medium | - |
 | Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) | | Medium | Java Basic |
 | Advanced | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem) | | Easy | Java Basic |
-| Advanced | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | | Easy | Java Basic |
+| Advanced | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Solution](./java/src/main/java/com/hackerrank/java/advanced/SingletonPattern.java) | Easy | Java Basic |
 | Advanced | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) | | Medium | - |
-| Advanced | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | | Medium | - |
-| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) | | Easy | - |
+| Advanced | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | [Solution](./java/src/main/java/com/hackerrank/java/advanced/Annotations.java) | Medium | - |
+| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) | [Solution](./java/src/main/java/com/hackerrank/java/advanced/Covariance.java) | Easy | - |
 | Advanced | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) | | Medium | - |
 | Advanced | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem) | [Solution](./java/src/main/java/com/hackerrank/java/advanced/MD5.java) | Medium | - |
 | Advanced | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) | [Solution](./java/src/main/java/com/hackerrank/java/advanced/SHA256.java) | Medium | - |
