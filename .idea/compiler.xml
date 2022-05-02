@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="30-days-of-code" />
+        <module name="java" />
         <module name="problem-solving" />
         <module name="interview-preparation-kit" />
-        <module name="java" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="30-days-of-code" target="8" />
       <module name="interview-preparation-kit" target="8" />
       <module name="java" target="8" />
       <module name="problem-solving" target="8" />
