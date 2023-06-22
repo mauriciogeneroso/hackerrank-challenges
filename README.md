@@ -255,6 +255,7 @@
 ### Regex
 
 - [Regex webpage](https://www.hackerrank.com/domains/regex)
+- [Notes](./hackerrank-challenges/blob/main/regex/README.md)
 
 | Subdomains | Challenge     |                                                   Solution                                                   | Difficult |
 | ------------- | ------------- |:------------------------------------------------------------------------------------------------------------:| ------------- |
