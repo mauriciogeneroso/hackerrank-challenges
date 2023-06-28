@@ -1,5 +1,7 @@
 package com.hackerrank.regex.introduction;
 
+import com.hackerrank.regex.RegexTest;
+
 public class MatchingDigitsAndNonDigitCharacters {
 
     public static void main(String[] args) {

@@ -10,4 +10,6 @@
 - ^ -> matches the position at the start
 - $ -> matches the position at the end
 - () -> parentheses are grouping
+- [] -> matches only one of several characters placed inside the square brackets
+- [^] -> matches any character that is not in the square brackets
 - &plus; -> looping, it is used to repeat a pattern

@@ -1,10 +1,10 @@
-package com.hackerrank.regex.introduction;
+package com.hackerrank.regex;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-class RegexTest {
+public class RegexTest {
 
     public void checker(String regexPattern){
         Scanner input = new Scanner(System.in);
