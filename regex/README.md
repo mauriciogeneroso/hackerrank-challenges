@@ -12,5 +12,7 @@
 - () -> parentheses are grouping
 - [] -> matches only one of several characters placed inside the square brackets
 - [^] -> matches any character that is not in the square brackets
-- {1} -> matches x repetitions of character in the group
-- &plus; -> looping, it is used to repeat a pattern
+- {x} -> matches x repetitions of character in the group
+- {x,y} -> matches between x and y repetitions of characters in the group
+- * -> zero or more repetition
+- &plus; -> matches one or more repetition
