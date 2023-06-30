@@ -41,4 +41,11 @@ Back references:
 - (?|regex) -> reset group (Branch reset group is supported by Perl, PHP, Delphi and R)
 - Forward reference: Forward reference creates a back reference to a regex that would appear later.
      - https://www.regular-expressions.info/backref2.html#forward
-- 
+
+Assertions:
+- regex_1(?=regex2) -> the positive lookahead (?=) asserts regex_1 to be immediately followed by regex_2.
+     - The lookahead is excluded from the match string
+- regex_1(?!regex2) -> negative lookahead, the opposite from positive lookahead
+- (?<=regex_2)regex_1 -> positive lookbehind asserts regex_1 to be immediately proceeded by regex_1
+     - The lookbehind is excluded from the match string
+- (?<!regex_2)regex_1 -> negative lookbehind, the opposite from positive lookbehind
