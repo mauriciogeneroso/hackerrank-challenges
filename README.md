@@ -20,9 +20,9 @@
 
 - [30 Days of code webpage](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-| Day | Challenge     | Solution (Java) | Difficult     
-| ------------- | ------------- |:-------------:| ------------- |
-| 0 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](./30-days-of-code/src/main/java/com/hackerrank/thrirtydaysofcode/day0helloworld/Solution.java)| Easy |
+| Day | Challenge     | Solution (Java) | Difficult     |      Review      
+| ------------- | ------------- |:-------------:| ------------- |:----------------:|
+| 0 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](./30-days-of-code/src/main/java/com/hackerrank/thrirtydaysofcode/day0helloworld/Solution.java)| Easy |        ✅         |
 | 1 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](./30-days-of-code/src/main/java/com/hackerrank/thrirtydaysofcode/day1datatypes/Solution.java)| Easy |
 | 2 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](./30-days-of-code/src/main/java/com/hackerrank/thrirtydaysofcode/day2operators/Solution.java)| Easy |
 | 3 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](./30-days-of-code/src/main/java/com/hackerrank/thrirtydaysofcode/day3conditionalstatements/Solution.java)| Easy |
