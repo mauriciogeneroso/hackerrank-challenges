@@ -40,4 +40,29 @@ public class Solution {
             System.out.println();
         }
     }
+
+//    public static void main(String[] args) {
+//
+//        Scanner scan = new Scanner(System.in);
+//        int n = scan.nextInt();
+//        scan.skip("\n");
+//
+//        for (int i = 0; i < n; i++) {
+//            String input = scan.nextLine();
+//            String oddIndexes = "";
+//            String evenIndexes = "";
+//
+//            for (int j = 0; j < input.length(); j++) {
+//                char currentChar = input.charAt(j);
+//                if (j % 2 == 0) {
+//                    evenIndexes += currentChar;
+//                } else {
+//                    oddIndexes += currentChar;
+//                }
+//            }
+//
+//            System.out.printf("%s %s\n", evenIndexes, oddIndexes);
+//        }
+//
+//    }
 }

@@ -14,7 +14,7 @@ public class Solution {
         /* Declare second integer, double, and String variables. */
         int i2 = scan.nextInt();
         double d2 = scan.nextDouble();
-        scan.nextLine();
+        scan.skip("\n");
         String s2 = scan.nextLine();
 
         /* Read and save an integer, double, and String to your variables.*/

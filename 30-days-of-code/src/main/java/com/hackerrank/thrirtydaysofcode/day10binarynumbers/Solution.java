@@ -35,4 +35,22 @@ public class Solution {
 
         scanner.close();
     }
+
+//    public static void main(String[] args) throws IOException {
+//        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+//        int n = Integer.parseInt(bufferedReader.readLine().trim());
+//        String binary = Integer.toBinaryString(n);
+//
+//        String[] groups = binary.split("0");
+//        int max = 0;
+//
+//        for (int i = 0; i < groups.length; i++) {
+//            if (groups[i].length() > max) {
+//                max = groups[i].length();
+//            }
+//        }
+//
+//        System.out.println(max);
+//        bufferedReader.close();
+//    }
 }

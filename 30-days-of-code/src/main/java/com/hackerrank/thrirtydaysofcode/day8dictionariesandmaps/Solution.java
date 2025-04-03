@@ -19,11 +19,10 @@ public class Solution {
         }
         while (in.hasNext()) {
             String s = in.next();
-            Integer number = map.get(s);
-            if (number == null) {
-                System.out.println("Not found");
+            if (map.containsKey(s)) {
+                System.out.printf("%s=%d\n", s, map.get(s));
             } else {
-                System.out.println(s + "=" + number);
+                System.out.println("Not found");
             }
         }
         in.close();
