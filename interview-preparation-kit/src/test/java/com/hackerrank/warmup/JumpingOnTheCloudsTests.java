@@ -1,11 +1,12 @@
 package com.hackerrank.warmup;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-public class JumpingOnTheCloudsTests {
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-    private JumpingOnTheClouds jumpingOnTheClouds = new JumpingOnTheClouds();
+class JumpingOnTheCloudsTests {
+
+    private final JumpingOnTheClouds jumpingOnTheClouds = new JumpingOnTheClouds();
 
     @Test
     public void algorithm1_test1() {
@@ -16,11 +17,11 @@ public class JumpingOnTheCloudsTests {
         int result = jumpingOnTheClouds.jumpingOnClouds(sequence);
 
         // Assert
-        Assert.assertEquals(4, result);
+        assertEquals(4, result);
     }
 
     @Test
-    public void algorithm1_test2() {
+    void algorithm1_test2() {
         // Arrange
         int[] sequence = new int[]{0, 0, 0, 0, 1, 0};
 
@@ -28,11 +29,11 @@ public class JumpingOnTheCloudsTests {
         int result = jumpingOnTheClouds.jumpingOnClouds(sequence);
 
         // Assert
-        Assert.assertEquals(3, result);
+        assertEquals(3, result);
     }
 
     @Test
-    public void algorithm2_test1() {
+    void algorithm2_test1() {
         // Arrange
         int[] sequence = new int[]{0, 0, 1, 0, 0, 1, 0};
 
@@ -40,11 +41,11 @@ public class JumpingOnTheCloudsTests {
         int result = jumpingOnTheClouds.jumpingOnClouds2(sequence);
 
         // Assert
-        Assert.assertEquals(4, result);
+        assertEquals(4, result);
     }
 
     @Test
-    public void algorithm2_test2() {
+    void algorithm2_test2() {
         // Arrange
         int[] sequence = new int[]{0, 0, 0, 0, 1, 0};
 
@@ -52,6 +53,6 @@ public class JumpingOnTheCloudsTests {
         int result = jumpingOnTheClouds.jumpingOnClouds2(sequence);
 
         // Assert
-        Assert.assertEquals(3, result);
+        assertEquals(3, result);
     }
 }

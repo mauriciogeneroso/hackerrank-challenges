@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class SherlockAndTheValidString {
 
-    public static String isValid(String s) {
+    public String isValid(String s) {
         int[] charFreq = new int[26];
         s.chars().forEach(c -> charFreq[c - 'a']++);
 

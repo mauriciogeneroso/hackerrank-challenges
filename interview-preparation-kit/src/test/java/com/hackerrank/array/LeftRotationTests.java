@@ -1,22 +1,24 @@
 package com.hackerrank.array;
 
-import org.junit.Assert;
-import org.junit.Test;
 
-public class LeftRotationTests {
+import org.junit.jupiter.api.Test;
 
-    private LeftRotation leftRotation = new LeftRotation();
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+
+class LeftRotationTests {
+
+    private final LeftRotation leftRotation = new LeftRotation();
 
     @Test
-    public void leftrotation_example1(){
+    void leftrotation_example1() {
         // Arrange
-        int[] array = new int[] {1, 2, 3, 4, 5};
+        int[] array = new int[]{1, 2, 3, 4, 5};
 
         // Act
         int[] result = leftRotation.rotLeft(array, 4);
 
         // Assert
-        Assert.assertArrayEquals(new int[] {5, 1, 2, 3, 4}, result);
+        assertArrayEquals(new int[]{5, 1, 2, 3, 4}, result);
     }
 
 }

@@ -1,14 +1,15 @@
 package com.hackerrank.stringmanipulation;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-public class MakingAnagramsTests {
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-    private MakingAnagrams makingAnagrams = new MakingAnagrams();
+class MakingAnagramsTests {
+
+    private final MakingAnagrams makingAnagrams = new MakingAnagrams();
 
     @Test
-    public void makingAnagrams_example1() {
+    void makingAnagrams_example1() {
         // Arrange
         String a = "cde";
         String b = "abc";
@@ -17,11 +18,11 @@ public class MakingAnagramsTests {
         int minDeletion = makingAnagrams.makeAnagram(a, b);
 
         // Assert
-        Assert.assertEquals(4, minDeletion);
+        assertEquals(4, minDeletion);
     }
 
     @Test
-    public void makingAnagrams_example2() {
+    void makingAnagrams_example2() {
         // Arrange
         String a = "fcrxzwscanmligyxyvym";
         String b = "jxwtrhvujlmrpdoqbisbwhmgpmeoke";
@@ -30,12 +31,12 @@ public class MakingAnagramsTests {
         int minDeletion = makingAnagrams.makeAnagram(a, b);
 
         // Assert
-        Assert.assertEquals(30, minDeletion);
+        assertEquals(30, minDeletion);
     }
 
     // Second solution
     @Test
-    public void makingAnagrams_example3() {
+    void makingAnagrams_example3() {
         // Arrange
         String a = "fcrxzwscanmligyxyvym";
         String b = "jxwtrhvujlmrpdoqbisbwhmgpmeoke";
@@ -44,6 +45,6 @@ public class MakingAnagramsTests {
         int minDeletion = makingAnagrams.numberNeeded(a, b);
 
         // Assert
-        Assert.assertEquals(30, minDeletion);
+        assertEquals(30, minDeletion);
     }
 }

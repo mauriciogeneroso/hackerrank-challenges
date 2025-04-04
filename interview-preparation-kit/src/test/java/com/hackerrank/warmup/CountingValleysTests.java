@@ -1,14 +1,15 @@
 package com.hackerrank.warmup;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CountingValleysTests {
 
-    private CountingValleys countingValleys = new CountingValleys();
+    private final CountingValleys countingValleys = new CountingValleys();
 
     @Test
-    public void algorithm_test(){
+    public void algorithm_test() {
         // Arrange
         String steps = "UDDDUDUU";
 
@@ -16,6 +17,6 @@ public class CountingValleysTests {
         int result = countingValleys.countingValleys(steps.length(), steps);
 
         // Assert
-        Assert.assertEquals(1, result);
+        assertEquals(1, result);
     }
 }

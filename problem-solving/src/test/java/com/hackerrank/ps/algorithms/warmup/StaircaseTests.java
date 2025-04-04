@@ -2,14 +2,15 @@ package com.hackerrank.ps.algorithms.warmup;
 
 import org.junit.jupiter.api.Test;
 
-public class StaircaseTests {
+class StaircaseTests {
 
     @Test
-    public void test() {
+    void test() {
         Staircase.staircase(6);
-    }@Test
+    }
 
-    public void test2() {
+    @Test
+    void test2() {
         Staircase.staircase2(6);
     }
 }

@@ -1,14 +1,15 @@
 package com.hackerrank.warmup;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class RepeatedStringTests {
 
-    private RepeatedString repeatedString = new RepeatedString();
+    private final RepeatedString repeatedString = new RepeatedString();
 
     @Test
-    public void test1() {
+    void test1() {
         // Arrange
         String s = "aba";
         long l = 10;
@@ -17,6 +18,6 @@ public class RepeatedStringTests {
         long result = repeatedString.repeatedString(s, l);
 
         // Assert
-        Assert.assertEquals(7, result);
+        assertEquals(7, result);
     }
 }
