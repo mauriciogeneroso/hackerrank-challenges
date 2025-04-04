@@ -11,6 +11,21 @@ class Calculator {
 
         return (int) Math.pow(n, p);
     }
+
+//    int power(int n, int p) {
+//        if (p == 0) {
+//            return 1;
+//        } else if (n < 0 || p < 0) {
+//            throw new RuntimeException("n and p should be non-negative");
+//        }
+//
+//        int result = n;
+//        for (int i = 0; i < p - 1; i++) {
+//            result *= n;
+//        }
+//
+//        return result;
+//    }
 }
 
 class Solution {

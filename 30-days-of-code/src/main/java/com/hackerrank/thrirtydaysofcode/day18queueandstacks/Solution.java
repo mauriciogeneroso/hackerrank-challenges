@@ -1,30 +1,29 @@
 package com.hackerrank.thrirtydaysofcode.day18queueandstacks;
 
+import java.util.ArrayDeque;
+import java.util.Queue;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class Solution {
 
-    String stack = new String();
-    String queue = new String();
+    private final Stack<Character> stack = new Stack<>();
+    private final Queue<Character> queue = new ArrayDeque<>();
 
-    public void pushCharacter(char c) {
-        stack += c;
+    void pushCharacter(char ch) {
+        stack.add(ch);
     }
 
-    public void enqueueCharacter(char c) {
-        queue += c;
+    void enqueueCharacter(char ch) {
+        queue.add(ch);
     }
 
-    public char popCharacter() {
-        char cc = stack.charAt(stack.length() - 1);
-        stack = stack.substring(0, stack.length() - 1);
-        return cc;
+    char popCharacter() {
+        return stack.pop();
     }
 
-    public char dequeueCharacter() {
-        char cc = stack.charAt(0);
-        stack = stack.substring(1, stack.length());
-        return cc;
+    char dequeueCharacter() {
+        return queue.poll();
     }
 
     public static void main(String[] args) {

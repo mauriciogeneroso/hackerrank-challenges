@@ -16,6 +16,12 @@ class Calculator implements AdvancedArithmetic {
         }
         return sum;
     }
+
+//    public int divisorSum(int n) {
+//        return java.util.stream.IntStream.rangeClosed(1, n)
+//                .filter(i -> n % i == 0)
+//                .sum();
+//    }
 }
 
 class Solution {

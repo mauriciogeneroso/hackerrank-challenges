@@ -9,7 +9,7 @@ public class Solution {
         String S = in.next();
 
         try {
-            System.out.println(new Integer(S));
+            System.out.println(Integer.parseInt(S));
         } catch (NumberFormatException ex) {
             System.out.println("Bad String");
         }
