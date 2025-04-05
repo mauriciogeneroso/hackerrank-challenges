@@ -1,6 +1,6 @@
 rootProject.name = 'hackerrank-challenges'
 
-include '30-days-of-code'
+include 'solutions'
 include 'interview-preparation-kit'
 include 'java'
 include 'problem-solving'
