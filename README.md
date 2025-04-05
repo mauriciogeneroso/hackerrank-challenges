@@ -20,7 +20,7 @@
 
 - [30 Days of code webpage](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-| Day | Challenge     | Solution (Java) | Difficult     |      Review      
+| Day | Challenge     | Solution (Java) | Difficult     |      Review      |
 | ------------- | ------------- |:-------------:| ------------- |:----------------:|
 | 0 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](./solutions/src/main/java/com/generoso/hackerrank/thrirtydaysofcode/day0helloworld/Solution.java)| 🟢 Easy |        ✅         |
 | 1 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](./solutions/src/main/java/com/generoso/hackerrank/thrirtydaysofcode/day1datatypes/Solution.java)| 🟢 Easy |        ✅         |
@@ -58,17 +58,17 @@
 
 - [SQL webpage](https://www.hackerrank.com/domains/sql)
 
-| Subdomains | Challenge     | Solution (MySQL) | Difficult | SQL Skills |
-| ------------- | ------------- |:-------------:| ------------- | ------------- |
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](solutions/sql/basic-select/1.revision-select-query-1.sql)| Easy | Basic |
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](solutions/sql/basic-select/2.revision-select-query-2.sql) | Easy |  Basic |
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](solutions/sql/basic-select/3.select-all.sql) | Easy | Basic |
-| Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](solutions/sql/basic-select/4.select-by-id.sql) | Easy | Basic |
-| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](solutions/sql/basic-select/5.japonese-cities-attributes.sql) | Easy |  Basic |
-| Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](solutions/sql/basic-select/6.japonese-cities-names.sql) | Easy | Basic |
-| Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-1.sql) | Easy | Basic |
-| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-3.sql) | Easy | Basic |
-| Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-4.sql) | Easy | Basic |
+| Subdomains | Challenge     | Solution (MySQL) | Difficult | SQL Skills |      Review      |
+| ------------- | ------------- |:-------------:| ------------- | ------------- |:----------------:|
+| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](solutions/sql/basic-select/1.revision-select-query-1.sql)| Easy | Basic |        ✅         |
+| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [Solution](solutions/sql/basic-select/2.revision-select-query-2.sql) | Easy |  Basic |        ✅         |
+| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [Solution](solutions/sql/basic-select/3.select-all.sql) | Easy | Basic |        ✅         |
+| Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [Solution](solutions/sql/basic-select/4.select-by-id.sql) | Easy | Basic |        ✅         |
+| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [Solution](solutions/sql/basic-select/5.japonese-cities-attributes.sql) | Easy |  Basic |        ✅         |
+| Basic Select | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | [Solution](solutions/sql/basic-select/6.japonese-cities-names.sql) | Easy | Basic |        ✅         |
+| Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-1.sql) | Easy | Basic |        ✅         |
+| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-3.sql) | Easy | Basic |        ✅         |
+| Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-4.sql) | Easy | Basic |        ✅         |
 | Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-5.sql) | Easy | Intermediate |
 | Basic Select | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-6.sql) | Easy | Basic |
 | Basic Select | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-7.sql) | Easy | Basic |
