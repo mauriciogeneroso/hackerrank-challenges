@@ -14,16 +14,16 @@ public class Solution {
             numbers[i] = scan.nextInt();
         }
 
-        for (int i = 0; i < numbers.length; i++) {
+        for (int number : numbers) {
             boolean prime = true;
-            for (int j = 2; j <= numbers[i] / 2; j++) {
-                if (numbers[i] % j == 0) {
+            for (int j = 2; j <= number / 2; j++) {
+                if (number % j == 0) {
                     prime = false;
                     break;
                 }
             }
 
-            if (numbers[i] != 1 && prime) {
+            if (number != 1 && prime) {
                 System.out.println("Prime");
             } else {
                 System.out.println("Not prime");

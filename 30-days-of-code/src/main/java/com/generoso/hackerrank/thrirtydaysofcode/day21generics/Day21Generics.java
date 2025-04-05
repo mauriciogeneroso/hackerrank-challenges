@@ -10,19 +10,18 @@ class Printer<T> {
      *
      * @param A generic array
      **/
-
     // Write your code here
-    void printArray(Object[] A) {
-        for (Object item : A) {
+    void printArray(T[] A) {
+        // Arrays.asList(array).forEach(System.out::println);
+        for (T item : A) {
             System.out.println(item);
         }
     }
-
 }
 
-public class Generics {
+public class Day21Generics {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         Integer[] intArray = new Integer[n];
@@ -36,8 +35,8 @@ public class Generics {
             stringArray[i] = scanner.next();
         }
 
-        Printer<Integer> intPrinter = new Printer<Integer>();
-        Printer<String> stringPrinter = new Printer<String>();
+        Printer<Integer> intPrinter = new Printer<>();
+        Printer<String> stringPrinter = new Printer<>();
         intPrinter.printArray(intArray);
         stringPrinter.printArray(stringArray);
         if (Printer.class.getDeclaredMethods().length > 1) {

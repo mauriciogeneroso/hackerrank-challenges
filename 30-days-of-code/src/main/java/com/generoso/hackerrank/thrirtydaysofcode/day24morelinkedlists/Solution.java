@@ -18,25 +18,39 @@ class Solution {
     public static Node removeDuplicates(Node head) {
         //Write your code here
         Node current = head;
-
-        while (current != null) {
-            Node verifying = current.next;
-            Node previous = current;
-
-            while (verifying != null) {
-                if (current.data == verifying.data) {
-                    previous.next = verifying.next;
-                } else {
-                    previous = verifying;
-                }
-                verifying = verifying.next;
+        while ((current.next) != null) {
+            if (current.data == current.next.data) {
+                current.next = current.next.next;
+            } else {
+                current = current.next;
             }
-
-            current = current.next;
         }
 
         return head;
     }
+
+//    public static Node removeDuplicates(Node head) {
+//        //Write your code here
+//        Node current = head;
+//
+//        while (current != null) {
+//            Node verifying = current.next;
+//            Node previous = current;
+//
+//            while (verifying != null) {
+//                if (current.data == verifying.data) {
+//                    previous.next = verifying.next;
+//                } else {
+//                    previous = verifying;
+//                }
+//                verifying = verifying.next;
+//            }
+//
+//            current = current.next;
+//        }
+//
+//        return head;
+//    }
 
     public static Node insert(Node head, int data) {
         Node p = new Node(data);

@@ -33,5 +33,38 @@ public class Solution {
             }
         }
     }
+
+//    public static void main(String[] args) {
+//        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+//        Scanner scan = new Scanner(System.in);
+//
+//        String returnedDateInput = scan.nextLine();
+//        String returnDateInput = scan.nextLine();
+//
+//        String[] returnedDateParts = returnedDateInput.split("\\s");
+//        String[] returnDateParts = returnDateInput.split("\\s");
+//
+//        LocalDate returnedDate = LocalDate.of(
+//                Integer.parseInt(returnedDateParts[2]),
+//                Integer.parseInt(returnedDateParts[1]),
+//                Integer.parseInt(returnedDateParts[0])
+//        );
+//
+//        LocalDate returnDate = LocalDate.of(
+//                Integer.parseInt(returnDateParts[2]),
+//                Integer.parseInt(returnDateParts[1]),
+//                Integer.parseInt(returnDateParts[0])
+//        );
+//
+//        if (returnedDate.isBefore(returnDate) || returnedDate == returnDate) {
+//            System.out.println("0");
+//        } else if (returnedDate.getMonth() == returnDate.getMonth() && returnedDate.getYear() == returnDate.getYear()) {
+//            System.out.print(15 * (returnedDate.getDayOfMonth() - returnDate.getDayOfMonth()));
+//        } else if (returnedDate.getYear() == returnDate.getYear()) {
+//            System.out.println(500 * (returnedDate.getMonthValue() - returnDate.getMonthValue()));
+//        } else {
+//            System.out.println("10000");
+//        }
+//    }
 }
 

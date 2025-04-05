@@ -18,7 +18,6 @@ public class Solution {
 
     static void levelOrder(Node root) {
         Queue<Node> queue = new LinkedList<>();
-
         queue.add(root);
         while (!queue.isEmpty()) {
             Node current = queue.remove();

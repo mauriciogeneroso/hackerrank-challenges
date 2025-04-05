@@ -22,15 +22,12 @@ public class Solution {
             String firstName = firstNameEmailID[0];
             String emailID = firstNameEmailID[1];
 
-            Pattern p = Pattern.compile(".+@gmail\\.com$");
-            Matcher m = p.matcher(emailID);
-            if (m.find()) {
+            if (emailID.matches(".+@gmail\\.com$")) {
                 listOfNames.add(firstName);
             }
         }
 
-        Collections.sort(listOfNames);
-        listOfNames.forEach(System.out::println);
+        listOfNames.stream().sorted().forEach(System.out::println);
         scanner.close();
     }
 }
