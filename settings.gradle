@@ -2,6 +2,5 @@ rootProject.name = 'hackerrank-challenges'
 
 include 'solutions'
 include 'interview-preparation-kit'
-include 'java'
 include 'problem-solving'
 include 'regex'
