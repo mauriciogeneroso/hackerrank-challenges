@@ -124,72 +124,72 @@
 
 - [Java webpage](https://www.hackerrank.com/domains/java?badge_type=java)
 
-| Subdomains | Challenge     | Solution | Difficult | Skills |
-| ------------- | ------------- |:-------------:| ------------- | ------------- |
-| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/WelcomeToJava.java) | Easy | Java Basic |
-| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/StdInStdOut.java) | Easy | Java Basic |
-| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/IfElse.java) | Easy | Java Basic |
-| Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/StdInStdOutII.java) | Easy | Java Basic |
-| Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/OutputFormatting.java) | Easy | Java Basic |
-| Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/LoopsI.java) | Easy | Java Basic |
-| Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/LoopsII.java) | Easy | Java Basic |
-| Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/Datatypes.java) | Easy | Java Basic |
-| Introduction | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/EndOfFile.java) | Easy | Java Basic |
-| Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/StaticInitializerBlock.java) | Easy | Java Basic |
-| Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/IntToString.java) | Easy | Java Basic |
-| Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/DateTime.java) | Easy | Java Basic |
-| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/CurrencyFormatter.java) | Easy | Java Basic |
-| String | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/string/StringIntroduction.java) | Easy | Java Basic |
-| String | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/string/Substring.java) | Easy | Java Basic |
-| String | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/string/SubstringComparisons.java) | Easy | Java Basic |
-| String | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/string/StringReverse.java) | Easy | Java Basic |
-| String | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/string/Anagrams.java) | Easy | Java Basic |
-| String | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) | | Easy | Java Basic |
-| String | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) | | Easy | Java Basic |
-| String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | | Medium | Java Intermediate |
-| String | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) | | Medium | Java Basic |
-| String | [Valid Username Regular Expression]() | | Easy | Java Basic |
-| String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) | | Medium | Java Basic |
-| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/bignumbers/PrimalityTest.java) | Easy | Java Basic |
-| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/bignumbers/JavaBigInteger.java) | Easy | Java Basic |
-| BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) | | Medium | Java Basic |
-| Data Structure | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) | | Easy | Java Basic |
-| Data Structure | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) | | Easy | Java Basic |
-| Data Structure | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) | | Easy | Java Basic |
-| Data Structure | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) | | Easy | Java Basic |
-| Data Structure | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem) | | Medium | Java Basic |
-| Data Structure | [Java List](https://www.hackerrank.com/challenges/java-list/problem) | | Easy | Java Basic |
-| Data Structure | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) | | Easy | Java Basic |
-| Data Structure | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) | | Easy | Java Basic |
-| Data Structure | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) | | Easy | Java Basic |
-| Data Structure | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) | | Easy | Java Basic |
-| Data Structure | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) | | Easy | Java Basic |
-| Data Structure | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem) | | Easy | Java Basic |
-| Data Structure | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem) | | Medium | Problem Solving Intermediate |
-| Data Structure | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem) | | Easy | Java Basic |
-| Data Structure | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) | | Medium | Java Intermediate |
-| OOP | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/InheritanceI.java) | Easy | Java Basic |
-| OOP | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/InheritanceII.java) | Easy | Java Basic |
-| OOP | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/AbstractClass.java) | Easy | Java Basic |
-| OOP | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/Interface.java) | Easy | Java Basic |
-| OOP | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/MethodOverridingI.java) | Easy | Java Basic |
-| OOP | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/MethodOverridingII.java) | Easy | Java Basic |
-| OOP | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/InstanceOfKeyword.java) | Easy | Java Basic |
-| OOP | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/oop/JavaIterator.java) | Easy | Java Basic |
-| Exception Handling | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/exceptions/TryCatch.java) | Easy | Java Basic |
-| Exception Handling | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/exceptions/ExceptionsHandling.java) | Easy | Java Basic |
-| Advanced | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/Varargs.java) | Easy | Java Basic |
-| Advanced | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/ReflectionAttributes.java) | Easy | Java Basic |
-| Advanced | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) | | Medium | - |
-| Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) | | Medium | Java Basic |
-| Advanced | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/FactoryPattern.java) | Easy | Java Basic |
-| Advanced | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/SingletonPattern.java) | Easy | Java Basic |
-| Advanced | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) | | Medium | - |
-| Advanced | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/Annotations.java) | Medium | - |
-| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/Covariance.java) | Easy | - |
-| Advanced | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) | | Medium | - |
-| Advanced | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/MD5.java) | Medium | - |
-| Advanced | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/advanced/SHA256.java) | Medium | - |
+| Subdomains | Challenge     |                                               Solution                                               | Difficult | Skills |
+| ------------- | ------------- |:----------------------------------------------------------------------------------------------------:| ------------- | ------------- |
+| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/WelcomeToJava.java)      | Easy | Java Basic |
+| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOut.java)    | Easy | Java Basic |
+| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/IfElse.java)         | Easy | Java Basic |
+| Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOutII.java)      | Easy | Java Basic |
+| Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/OutputFormatting.java)    | Easy | Java Basic |
+| Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/LoopsI.java)         | Easy | Java Basic |
+| Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/LoopsII.java)         | Easy | Java Basic |
+| Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/Datatypes.java)        | Easy | Java Basic |
+| Introduction | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/EndOfFile.java)        | Easy | Java Basic |
+| Introduction | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StaticInitializerBlock.java) | Easy | Java Basic |
+| Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/IntToString.java)       | Easy | Java Basic |
+| Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/DateTime.java)        | Easy | Java Basic |
+| Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) |   [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/CurrencyFormatter.java)    | Easy | Java Basic |
+| String | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/StringIntroduction.java)      | Easy | Java Basic |
+| String | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/Substring.java)           | Easy | Java Basic |
+| String | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/SubstringComparisons.java)     | Easy | Java Basic |
+| String | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/StringReverse.java)         | Easy | Java Basic |
+| String | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/Anagrams.java)           | Easy | Java Basic |
+| String | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) |                                                                                                      | Easy | Java Basic |
+| String | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) |                                                                                                      | Easy | Java Basic |
+| String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) |                                                                                                      | Medium | Java Intermediate |
+| String | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) |                                                                                                      | Medium | Java Basic |
+| String | [Valid Username Regular Expression]() |                                                                                                      | Easy | Java Basic |
+| String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) |                                                                                                      | Medium | Java Basic |
+| BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/PrimalityTest.java)       | Easy | Java Basic |
+| BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/JavaBigInteger.java)      | Easy | Java Basic |
+| BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) |                                                                                                      | Medium | Java Basic |
+| Data Structure | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java 1D Array (Part 2)](https://www.hackerrank.com/challenges/java-1d-array/problem) |                                                                                                      | Medium | Java Basic |
+| Data Structure | [Java List](https://www.hackerrank.com/challenges/java-list/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Stack](https://www.hackerrank.com/challenges/java-stack/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem) |                                                                                                      | Medium | Problem Solving Intermediate |
+| Data Structure | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem) |                                                                                                      | Easy | Java Basic |
+| Data Structure | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem) |                                                                                                      | Medium | Java Intermediate |
+| OOP | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InheritanceI.java)           | Easy | Java Basic |
+| OOP | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InheritanceII.java)          | Easy | Java Basic |
+| OOP | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/AbstractClass.java)          | Easy | Java Basic |
+| OOP | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem) |            [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/Interface.java)            | Easy | Java Basic |
+| OOP | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/MethodOverridingI.java)        | Easy | Java Basic |
+| OOP | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/MethodOverridingII.java)        | Easy | Java Basic |
+| OOP | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InstanceOfKeyword.java)        | Easy | Java Basic |
+| OOP | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/JavaIterator.java)           | Easy | Java Basic |
+| Exception Handling | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/exceptions/TryCatch.java)         | Easy | Java Basic |
+| Exception Handling | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/exceptions/ExceptionsHandling.java)    | Easy | Java Basic |
+| Advanced | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Varargs.java)           | Easy | Java Basic |
+| Advanced | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/ReflectionAttributes.java)    | Easy | Java Basic |
+| Advanced | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem) |                                                                                                      | Medium | - |
+| Advanced | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem) |                                                                                                      | Medium | Java Basic |
+| Advanced | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/FactoryPattern.java)       | Easy | Java Basic |
+| Advanced | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SingletonPattern.java)      | Easy | Java Basic |
+| Advanced | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem) |                                                                                                      | Medium | - |
+| Advanced | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Annotations.java)         | Medium | - |
+| Advanced | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Covariance.java)         | Easy | - |
+| Advanced | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem) |                                                                                                      | Medium | - |
+| Advanced | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem) |            [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/MD5.java)             | Medium | - |
+| Advanced | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SHA256.java)           | Medium | - |
 
 ---
 ### Interview preparation kit
@@ -255,35 +255,35 @@
 ### Regex
 
 - [Regex webpage](https://www.hackerrank.com/domains/regex)
-- [Notes](./regex/README.md)
+- [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
 
 | Subdomains | Challenge     |                                                    Solution                                                     | Difficult |
 | ------------- | ------------- |:---------------------------------------------------------------------------------------------------------------:| ------------- |
-| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |
-| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |
-| Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
-| Introduction | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
-| Introduction | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingWordAndNonWordCharacter.java) | Easy |
-| Introduction | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/introduction/MatchingStartAndEnd.java) | Easy |
-| Character Class | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/characterclass/MatchingSpecificCharacters.java) | Easy |
-| Character Class | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/characterclass/ExcludingSpecificCharacters.java) | Easy |
-| Character Class | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/characterclass/MatchingCharacterRanges.java) | Easy |
-| Repetition | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/repetition/MatchingXRepetitions.java) | Easy |
-| Repetition | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/repetition/MatchingXYRepetitions.java) | Easy |
-| Repetition | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/repetition/MatchingZeroOrMoreRepetitions.java) | Easy |
-| Repetition | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/repetition/MatchingOneOrMoreRepetitions.java) | Easy |
-| Repetition | [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/repetition/MatchingEndingItems.java) | Easy |
-| Grouping and Capturing | [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/groupingandcapturing/MatchingWordBoundaries.java) | Easy |
-| Grouping and Capturing | [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/groupingandcapturing/CapturingAndNonCapturingGroups.java) | Easy |
-| Grouping and Capturing | [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/groupingandcapturing/AlternativeMatching.java) | Easy |
-| Backreferences | [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/backreferences/MatchingSameTextAgainAndAgain.java) | Easy |
-| Backreferences | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/backreferences/BackReferencesToFailedGroups.java) | Easy |
-| Backreferences | [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/backreferences/BranchResetGroups.java) | Easy |
-| Backreferences | [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/backreferences/ForwardReferences.java) | Easy |
-| Assertions | [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/assertions/PositiveLookahead.java) | Easy |
-| Assertions | [Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookahead/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/assertions/NegativeLookahead.java) | Easy |
-| Assertions | [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/assertions/PositiveLookbehind.java) | Easy |
-| Assertions | [Negative Lookbehind](https://www.hackerrank.com/challenges/negative-lookbehind/problem) | [Solution](./regex/src/main/java/com/hackerrank/regex/assertions/NegativeLookbehind.java) | Easy |
+| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |
+| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |
+| Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
+| Introduction | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
+| Introduction | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingWordAndNonWordCharacter.java) | Easy |
+| Introduction | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingStartAndEnd.java) | Easy |
+| Character Class | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingSpecificCharacters.java) | Easy |
+| Character Class | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/ExcludingSpecificCharacters.java) | Easy |
+| Character Class | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingCharacterRanges.java) | Easy |
+| Repetition | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXRepetitions.java) | Easy |
+| Repetition | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXYRepetitions.java) | Easy |
+| Repetition | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingZeroOrMoreRepetitions.java) | Easy |
+| Repetition | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingOneOrMoreRepetitions.java) | Easy |
+| Repetition | [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingEndingItems.java) | Easy |
+| Grouping and Capturing | [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/MatchingWordBoundaries.java) | Easy |
+| Grouping and Capturing | [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/CapturingAndNonCapturingGroups.java) | Easy |
+| Grouping and Capturing | [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/AlternativeMatching.java) | Easy |
+| Backreferences | [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/MatchingSameTextAgainAndAgain.java) | Easy |
+| Backreferences | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BackReferencesToFailedGroups.java) | Easy |
+| Backreferences | [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BranchResetGroups.java) | Easy |
+| Backreferences | [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/ForwardReferences.java) | Easy |
+| Assertions | [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookahead.java) | Easy |
+| Assertions | [Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookahead.java) | Easy |
+| Assertions | [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookbehind.java) | Easy |
+| Assertions | [Negative Lookbehind](https://www.hackerrank.com/challenges/negative-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookbehind.java) | Easy |
 | Applications | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem) |                                                                                                                 | Medium |
 | Applications | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem) |                                                                                                                 | Easy |
 | Applications | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring/problem) |                                                                                                                 | Easy |
