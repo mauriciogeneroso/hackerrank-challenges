@@ -124,14 +124,14 @@
 
 - [Java webpage](https://www.hackerrank.com/domains/java?badge_type=java)
 
-| Subdomains | Challenge     |                                               Solution                                               | Difficult | Skills |
-| ------------- | ------------- |:----------------------------------------------------------------------------------------------------:| ------------- | ------------- |
-| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/WelcomeToJava.java)      | Easy | Java Basic |
-| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOut.java)    | Easy | Java Basic |
-| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/IfElse.java)         | Easy | Java Basic |
-| Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOutII.java)      | Easy | Java Basic |
-| Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/OutputFormatting.java)    | Easy | Java Basic |
-| Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/LoopsI.java)         | Easy | Java Basic |
+| Subdomains | Challenge     |                                               Solution                                               | Difficult | Skills |      Review      |
+| ------------- | ------------- |:----------------------------------------------------------------------------------------------------:| ------------- | ------------- |:----------------:|
+| Introduction | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/introduction/WelcomeToJava.java)      | Easy | Java Basic |        ✅         |
+| Introduction | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOut.java)    | Easy | Java Basic |        ✅         |
+| Introduction | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/IfElse.java)         | Easy | Java Basic |        ✅         |
+| Introduction | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/StdInStdOutII.java)      | Easy | Java Basic |        ✅         |
+| Introduction | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/OutputFormatting.java)    | Easy | Java Basic |        ✅         |
+| Introduction | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/LoopsI.java)         | Easy | Java Basic |        ✅         |
 | Introduction | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/LoopsII.java)         | Easy | Java Basic |
 | Introduction | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/Datatypes.java)        | Easy | Java Basic |
 | Introduction | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/EndOfFile.java)        | Easy | Java Basic |
@@ -197,10 +197,10 @@
 - [Regex webpage](https://www.hackerrank.com/domains/regex)
 - [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
 
-| Subdomains | Challenge     |                                                    Solution                                                     | Difficult |
-| ------------- | ------------- |:---------------------------------------------------------------------------------------------------------------:| ------------- |
-| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |
-| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |
+| Subdomains | Challenge     |                                                    Solution                                                     | Difficult |      Review      |
+| ------------- | ------------- |:---------------------------------------------------------------------------------------------------------------:| ------------- |:----------------:|
+| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |        ✅         |
+| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |        ✅         |
 | Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
 | Introduction | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
 | Introduction | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingWordAndNonWordCharacter.java) | Easy |

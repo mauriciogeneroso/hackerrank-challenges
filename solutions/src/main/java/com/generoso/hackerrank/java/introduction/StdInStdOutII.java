@@ -8,7 +8,7 @@ public class StdInStdOutII {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
         double d = scan.nextDouble();
-        scan.nextLine();
+        scan.skip("\n");
         String s = scan.nextLine();
         scan.close();
 
