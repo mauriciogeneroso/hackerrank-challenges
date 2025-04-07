@@ -11,9 +11,9 @@
  * [30 Days of Code](#30-days-of-code)
  * [SQL](#sql)
  * [Java](#java)
+ * [Regex](#regex)
  * [Interview preparation kit](#interview-preparation-kit)
  * [Algorithms/Problem Solving](#problem-solving---algorithms)
- * [Regex](#regex)
 
 ---
 ### 30 Days of Code
@@ -192,6 +192,62 @@
 | Advanced | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SHA256.java)           | Medium | - |
 
 ---
+### Regex
+
+- [Regex webpage](https://www.hackerrank.com/domains/regex)
+- [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
+
+| Subdomains | Challenge     |                                                    Solution                                                     | Difficult |
+| ------------- | ------------- |:---------------------------------------------------------------------------------------------------------------:| ------------- |
+| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |
+| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |
+| Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
+| Introduction | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
+| Introduction | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingWordAndNonWordCharacter.java) | Easy |
+| Introduction | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingStartAndEnd.java) | Easy |
+| Character Class | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingSpecificCharacters.java) | Easy |
+| Character Class | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/ExcludingSpecificCharacters.java) | Easy |
+| Character Class | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingCharacterRanges.java) | Easy |
+| Repetition | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXRepetitions.java) | Easy |
+| Repetition | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXYRepetitions.java) | Easy |
+| Repetition | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingZeroOrMoreRepetitions.java) | Easy |
+| Repetition | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingOneOrMoreRepetitions.java) | Easy |
+| Repetition | [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingEndingItems.java) | Easy |
+| Grouping and Capturing | [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/MatchingWordBoundaries.java) | Easy |
+| Grouping and Capturing | [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/CapturingAndNonCapturingGroups.java) | Easy |
+| Grouping and Capturing | [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/AlternativeMatching.java) | Easy |
+| Backreferences | [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/MatchingSameTextAgainAndAgain.java) | Easy |
+| Backreferences | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BackReferencesToFailedGroups.java) | Easy |
+| Backreferences | [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BranchResetGroups.java) | Easy |
+| Backreferences | [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/ForwardReferences.java) | Easy |
+| Assertions | [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookahead.java) | Easy |
+| Assertions | [Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookahead.java) | Easy |
+| Assertions | [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookbehind.java) | Easy |
+| Assertions | [Negative Lookbehind](https://www.hackerrank.com/challenges/negative-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookbehind.java) | Easy |
+| Applications | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem) |                                                                                                                 | Medium |
+| Applications | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem) |                                                                                                                 | Easy |
+| Applications | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring/problem) |                                                                                                                 | Easy |
+| Applications | [Alien Username](https://www.hackerrank.com/challenges/alien-username/problem) |                                                                                                                 | Easy |
+| Applications | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) |                                                                                                                 | Easy |
+| Applications | [Find a Word](https://www.hackerrank.com/challenges/find-a-word/problem) |                                                                                                                 | Medium |
+| Applications | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) |                                                                                                                 | Medium |
+| Applications | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name/problem) |                                                                                                                 | Medium |
+| Applications | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem) |                                                                                                                 | Medium |
+| Applications | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem) |                                                                                                                 | Easy |
+| Applications | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem) |                                                                                                                 | Easy |
+| Applications | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem) |                                                                                                                 | Easy |
+| Applications | [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number/problem) |                                                                                                                 | Easy |
+| Applications | [Valid PAN format](https://www.hackerrank.com/challenges/valid-pan-format/problem) |                                                                                                                 | Easy |
+| Applications | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem) |                                                                                                                 | Easy |
+| Applications | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi/problem) |                                                                                                                 | Easy |
+| Applications | [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language/problem) |                                                                                                                 | Easy |
+| Applications | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/problem) |                                                                                                                 | Medium |
+| Applications | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number/problem) |                                                                                                                 | Easy |
+| Applications | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes/problem) |                                                                                                                 | Easy |
+| Applications | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us/problem) |                                                                                                                 | Easy |
+| Applications | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2/problem) |                                                                                                                 | Easy |
+
+---
 ### Interview preparation kit
 
 - [Interview preparation kit webpage](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
@@ -250,62 +306,6 @@
 | Implementation | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Same from Interview prep. kit | Easy | Problem Solving (Basic) |
 | Implementation | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Same from Interview prep. kit | Easy | Problem Solving (Basic) |
 | Implementation | -- | -- | -- | -- |
-
----
-### Regex
-
-- [Regex webpage](https://www.hackerrank.com/domains/regex)
-- [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
-
-| Subdomains | Challenge     |                                                    Solution                                                     | Difficult |
-| ------------- | ------------- |:---------------------------------------------------------------------------------------------------------------:| ------------- |
-| Introduction | [Matching Specific String](https://www.hackerrank.com/challenges/matching-specific-string) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingSpecificString.java) | Easy |
-| Introduction | [Matching Anything But a Newline](https://www.hackerrank.com/challenges/matching-anything-but-new-line/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingAnythingButANewline.java) | Easy |
-| Introduction | [Matching Digits & Non-Digit Characters](https://www.hackerrank.com/challenges/matching-digits-non-digit-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
-| Introduction | [Matching Whitespace & Non-Whitespace Character](https://www.hackerrank.com/challenges/matching-whitespace-non-whitespace-character/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingDigitsAndNonDigitCharacters.java) | Easy |
-| Introduction | [Matching Word & Non-Word Character](https://www.hackerrank.com/challenges/matching-word-non-word/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingWordAndNonWordCharacter.java) | Easy |
-| Introduction | [Matching Start & End](https://www.hackerrank.com/challenges/matching-start-end/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/introduction/MatchingStartAndEnd.java) | Easy |
-| Character Class | [Matching Specific Characters](https://www.hackerrank.com/challenges/matching-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingSpecificCharacters.java) | Easy |
-| Character Class | [Excluding Specific Characters](https://www.hackerrank.com/challenges/excluding-specific-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/ExcludingSpecificCharacters.java) | Easy |
-| Character Class | [Matching Character Ranges](https://www.hackerrank.com/challenges/matching-range-of-characters/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/characterclass/MatchingCharacterRanges.java) | Easy |
-| Repetition | [Matching {x} Repetitions](https://www.hackerrank.com/challenges/matching-x-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXRepetitions.java) | Easy |
-| Repetition | [Matching {x, y} Repetitions](https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingXYRepetitions.java) | Easy |
-| Repetition | [Matching Zero Or More Repetitions](https://www.hackerrank.com/challenges/matching-zero-or-more-repetitions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingZeroOrMoreRepetitions.java) | Easy |
-| Repetition | [Matching One Or More Repetitions](https://www.hackerrank.com/challenges/matching-one-or-more-repititions/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingOneOrMoreRepetitions.java) | Easy |
-| Repetition | [Matching Ending Items](https://www.hackerrank.com/challenges/matching-ending-items/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/repetition/MatchingEndingItems.java) | Easy |
-| Grouping and Capturing | [Matching Word Boundaries](https://www.hackerrank.com/challenges/matching-word-boundaries/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/MatchingWordBoundaries.java) | Easy |
-| Grouping and Capturing | [Capturing & Non-Capturing Groups](https://www.hackerrank.com/challenges/capturing-non-capturing-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/CapturingAndNonCapturingGroups.java) | Easy |
-| Grouping and Capturing | [Alternative Matching](https://www.hackerrank.com/challenges/alternative-matching/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/groupingandcapturing/AlternativeMatching.java) | Easy |
-| Backreferences | [Matching Same Text Again & Again](https://www.hackerrank.com/challenges/matching-same-text-again-again/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/MatchingSameTextAgainAndAgain.java) | Easy |
-| Backreferences | [Backreferences To Failed Groups](https://www.hackerrank.com/challenges/backreferences-to-failed-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BackReferencesToFailedGroups.java) | Easy |
-| Backreferences | [Branch Reset Groups](https://www.hackerrank.com/challenges/branch-reset-groups/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/BranchResetGroups.java) | Easy |
-| Backreferences | [Forward References](https://www.hackerrank.com/challenges/forward-references/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/backreferences/ForwardReferences.java) | Easy |
-| Assertions | [Positive Lookahead](https://www.hackerrank.com/challenges/positive-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookahead.java) | Easy |
-| Assertions | [Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookahead/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookahead.java) | Easy |
-| Assertions | [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookbehind.java) | Easy |
-| Assertions | [Negative Lookbehind](https://www.hackerrank.com/challenges/negative-lookbehind/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookbehind.java) | Easy |
-| Applications | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem) |                                                                                                                 | Medium |
-| Applications | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem) |                                                                                                                 | Easy |
-| Applications | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring/problem) |                                                                                                                 | Easy |
-| Applications | [Alien Username](https://www.hackerrank.com/challenges/alien-username/problem) |                                                                                                                 | Easy |
-| Applications | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) |                                                                                                                 | Easy |
-| Applications | [Find a Word](https://www.hackerrank.com/challenges/find-a-word/problem) |                                                                                                                 | Medium |
-| Applications | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) |                                                                                                                 | Medium |
-| Applications | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name/problem) |                                                                                                                 | Medium |
-| Applications | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem) |                                                                                                                 | Medium |
-| Applications | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem) |                                                                                                                 | Easy |
-| Applications | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem) |                                                                                                                 | Easy |
-| Applications | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem) |                                                                                                                 | Easy |
-| Applications | [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number/problem) |                                                                                                                 | Easy |
-| Applications | [Valid PAN format](https://www.hackerrank.com/challenges/valid-pan-format/problem) |                                                                                                                 | Easy |
-| Applications | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem) |                                                                                                                 | Easy |
-| Applications | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi/problem) |                                                                                                                 | Easy |
-| Applications | [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language/problem) |                                                                                                                 | Easy |
-| Applications | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/problem) |                                                                                                                 | Medium |
-| Applications | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number/problem) |                                                                                                                 | Easy |
-| Applications | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes/problem) |                                                                                                                 | Easy |
-| Applications | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us/problem) |                                                                                                                 | Easy |
-| Applications | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2/problem) |                                                                                                                 | Easy |
 
 ---
 
