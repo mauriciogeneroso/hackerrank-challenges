@@ -1,3 +1,4 @@
 SELECT DISTINCT CITY 
   FROM STATION 
- WHERE UPPER(RIGHT(CITY, 1)) NOT IN ("A", "E", "I", "O", "U") OR UPPER(LEFT(CITY, 1)) NOT IN ("A", "E", "I", "O", "U");
+ WHERE UPPER(RIGHT(CITY, 1)) NOT IN ("A", "E", "I", "O", "U")
+    OR UPPER(LEFT(CITY, 1)) NOT IN ("A", "E", "I", "O", "U");
