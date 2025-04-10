@@ -77,9 +77,9 @@
 | Basic Select | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-10.sql) | 🟢 Easy   | Basic |        ✅         |
 | Basic Select | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-11.sql) | 🟢 Easy   | Basic |        ✅         |
 | Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](solutions/sql/basic-select/7.weather-observation-status-12.sql) | 🟢 Easy   | Basic |        ✅         |
-| Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](solutions/sql/basic-select/18.higher-than-75-marks.sql) | 🟢 Easy   | Basic |
-| Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-names.sql) | 🟢 Easy   | Basic |
-| Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-salaries.sql) | 🟢 Easy   | Basic |
+| Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](solutions/sql/basic-select/18.higher-than-75-marks.sql) | 🟢 Easy   | Basic |        ✅         |
+| Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-names.sql) | 🟢 Easy   | Basic |        ✅         |
+| Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-salaries.sql) | 🟢 Easy   | Basic |        ✅         |
 | Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](solutions/sql/advanced-select/1.type-of-triangle.sql) | 🟢 Easy   | Basic |
 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](solutions/sql/advanced-select/2.the-pads.sql) | 🟡 Medium | Basic |
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](solutions/sql/advanced-select/3.occupations.sql) | 🟡 Medium | Advanced|
