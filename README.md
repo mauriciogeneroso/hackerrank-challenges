@@ -18,7 +18,7 @@ Completed challenges:
 
 <details><summary>30 Days of Code</summary>
 
-- [30 Days of code webpage](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+- [30 Days of code website](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 | Day | Challenge     | Solution (Java) | Difficult     | Completed |
 | ------------- | ------------- |:-------------:| ------------- |:-------------:|
@@ -57,11 +57,13 @@ Completed challenges:
 
 <details><summary>10 Days of Statistics</summary>
 
+- [10 Days of Statistics website](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+
 </details>
 
 <details><summary>SQL</summary>
 
-- [SQL webpage](https://www.hackerrank.com/domains/sql)
+- [SQL website](https://www.hackerrank.com/domains/sql)
 
 | Subdomains | Challenge     | Solution (MySQL) | Difficult | SQL Skills |      Review      |
 | ------------- | ------------- |:-------------:|-----------| ------------ |:----------------:|
@@ -128,7 +130,7 @@ Completed challenges:
 
 <details><summary>Java</summary>
 
-- [Java webpage](https://www.hackerrank.com/domains/java?badge_type=java)
+- [Java website](https://www.hackerrank.com/domains/java?badge_type=java)
 
 | Subdomains | Challenge     |                                               Solution                                               | Difficult | Skills |      Review      |
 | ------------- | ------------- |:----------------------------------------------------------------------------------------------------:| ------------- | ------------- |:----------------:|
@@ -202,7 +204,7 @@ Completed challenges:
 
 <details><summary>Regex</summary>
 
-- [Regex webpage](https://www.hackerrank.com/domains/regex)
+- [Regex website](https://www.hackerrank.com/domains/regex)
 - [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
 
 | Subdomains | Challenge     |                                                    Solution                                                     | Difficult |      Review      |
@@ -257,9 +259,9 @@ Completed challenges:
 
 </details>
 
-<details><summary>Interview Preparation Kit</summary>
+<details><summary>The HackerRank Interview Preparation Kit</summary>
 
-- [Interview preparation kit webpage](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
+- [The HackerRank Interview Preparation Kit website](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
 
 | Subdomains | Challenge     |                                                      Solution                                                      | Difficult |
 | ------------- | ------------- |:------------------------------------------------------------------------------------------------------------------:| ------------- |
@@ -296,9 +298,9 @@ Completed challenges:
 
 </details>
 
-<details><summary>Algorithms/Problem Solving</summary>
+<details><summary>Problem Solving</summary>
 
-- [Algorithms webpage](https://www.hackerrank.com/domains/algorithms)
+- [Problem Solving website](https://www.hackerrank.com/domains/algorithms)
 
 | Subdomains | Challenge     | Solution | Difficult | Skills |
 | ------------- | ------------- |:-------------:| ------------- | ------------- |
