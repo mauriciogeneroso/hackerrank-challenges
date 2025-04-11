@@ -6,17 +6,17 @@
 </p>
 
 ---
-## Challenges:
- 
- * [30 Days of Code](#30-days-of-code)
- * [SQL](#sql)
- * [Java](#java)
- * [Regex](#regex)
- * [Interview preparation kit](#interview-preparation-kit)
- * [Algorithms/Problem Solving](#problem-solving---algorithms)
+## Summary 
 
----
-### 30 Days of Code
+Completed challenges:
+
+* 🟢 Easy: x
+* 🟡 Medium: x
+* 🔴 Hard: x
+
+## Challenges:
+
+<details><summary>30 Days of Code</summary>
 
 - [30 Days of code webpage](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
@@ -53,8 +53,13 @@
 | 28 | [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](./solutions/src/main/java/com/generoso/hackerrank/thrirtydaysofcode/day28regex/Solution.java) | 🟡 Medium | ✅ | 
 | 29 | [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](./solutions/src/main/java/com/generoso/hackerrank/thrirtydaysofcode/day29bitwise/Solution.java) | 🟡 Medium | ✅ |
 
----
-### SQL
+</details>
+
+<details><summary>10 Days of Statistics</summary>
+
+</details>
+
+<details><summary>SQL</summary>
 
 - [SQL webpage](https://www.hackerrank.com/domains/sql)
 
@@ -119,8 +124,9 @@
 | Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | | 🟢 Easy   | Advanced |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | | 🟡 Medium | Advanced |
 
----
-### Java
+</details>
+
+<details><summary>Java</summary>
 
 - [Java webpage](https://www.hackerrank.com/domains/java?badge_type=java)
 
@@ -191,8 +197,10 @@
 | Advanced | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem) |            [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/MD5.java)             | 🟡 Medium | - |
 | Advanced | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SHA256.java)           | 🟡 Medium | - |
 
----
-### Regex
+
+</details>
+
+<details><summary>Regex</summary>
 
 - [Regex webpage](https://www.hackerrank.com/domains/regex)
 - [Notes](solutions/src/main/java/com/generoso/hackerrank/regex/README.md)
@@ -247,8 +255,9 @@
 | Applications | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us/problem) |                                                                                                                 | 🟢 Easy |
 | Applications | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2/problem) |                                                                                                                 | 🟢 Easy |
 
----
-### Interview preparation kit
+</details>
+
+<details><summary>Interview Preparation Kit</summary>
 
 - [Interview preparation kit webpage](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
 
@@ -284,8 +293,10 @@
 | Greddy Algorithm | [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | | Medium |
 | Greddy Algorithm | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=greedy-algorithms) | | Medium |
 
----
-### Problem Solving - Algorithms
+
+</details>
+
+<details><summary>Algorithms/Problem Solving</summary>
 
 - [Algorithms webpage](https://www.hackerrank.com/domains/algorithms)
 
@@ -306,6 +317,9 @@
 | Implementation | [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | Same from Interview prep. kit | Easy | Problem Solving (Basic) |
 | Implementation | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | Same from Interview prep. kit | Easy | Problem Solving (Basic) |
 | Implementation | -- | -- | -- | -- |
+
+
+</details>
 
 ---
 
