@@ -10,8 +10,8 @@
 
 Completed challenges:
 
-* 🟢 Easy: x
-* 🟡 Medium: x
+* 🟢 Easy: 74
+* 🟡 Medium: 2
 * 🔴 Hard: x
 
 ## Challenges:
@@ -87,17 +87,17 @@ Completed challenges:
 | Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](solutions/sql/basic-select/18.higher-than-75-marks.sql) | 🟢 Easy   | Basic |        ✅         |
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-names.sql) | 🟢 Easy   | Basic |        ✅         |
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](solutions/sql/basic-select/19.employee-salaries.sql) | 🟢 Easy   | Basic |        ✅         |
-| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](solutions/sql/advanced-select/1.type-of-triangle.sql) | 🟢 Easy   | Basic |
+| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](solutions/sql/advanced-select/1.type-of-triangle.sql) | 🟢 Easy   | Basic |        ✅         |
 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](solutions/sql/advanced-select/2.the-pads.sql) | 🟡 Medium | Basic |
 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](solutions/sql/advanced-select/3.occupations.sql) | 🟡 Medium | Advanced|
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](solutions/sql/advanced-select/4.binary-tree-nodes.sql) | 🟡 Medium | Intermediate |
 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](solutions/sql/advanced-select/5.new-companies.sql) | 🟡 Medium | Intermediate |
-| Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](solutions/sql/aggregation/1.the-count-function.sql) | 🟢 Easy   | Basic |
-| Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](solutions/sql/aggregation/2.the-sum-function.sql) | 🟢 Easy   | Basic |
-| Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](solutions/sql/aggregation/3.averages.sql) | 🟢 Easy   | Basic |
-| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](solutions/sql/aggregation/4.average-population.sql) | 🟢 Easy   | Basic |
-| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](solutions/sql/aggregation/5.japan-population.sql) | 🟢 Easy   | Basic |
-| Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](solutions/sql/aggregation/6.population-density-difference.sql) | 🟢 Easy   | Basic |
+| Aggregation | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution](solutions/sql/aggregation/1.the-count-function.sql) | 🟢 Easy   | Basic |        ✅         |
+| Aggregation | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution](solutions/sql/aggregation/2.the-sum-function.sql) | 🟢 Easy   | Basic |        ✅         |
+| Aggregation | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](solutions/sql/aggregation/3.averages.sql) | 🟢 Easy   | Basic |        ✅         |
+| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](solutions/sql/aggregation/4.average-population.sql) | 🟢 Easy   | Basic |        ✅         |
+| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](solutions/sql/aggregation/5.japan-population.sql) | 🟢 Easy   | Basic |        ✅         |
+| Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](solutions/sql/aggregation/6.population-density-difference.sql) | 🟢 Easy   | Basic |        ✅         |
 | Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](solutions/sql/aggregation/7.the-blunder.sql) | 🟢 Easy   | Basic |
 | Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](solutions/sql/aggregation/8.top-earners.sql) | 🟢 Easy   | Basic |
 | Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](solutions/sql/aggregation/9.weather-observation-station-2.sql) | 🟢 Easy   | Basic |
