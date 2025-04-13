@@ -10,7 +10,7 @@
 
 Completed challenges:
 
-* 🟢 Easy: 74
+* 🟢 Easy: 75
 * 🟡 Medium: 2
 * 🔴 Hard: x
 
@@ -147,7 +147,7 @@ Completed challenges:
 | Introduction | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/IntToString.java)       | 🟢 Easy | Java Basic |        ✅         |
 | Introduction | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/DateTime.java)        | 🟢 Easy | Java Basic |        ✅         |
 | Introduction | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) |   [Solution](solutions/src/main/java/com/generoso/hackerrank/java/introduction/CurrencyFormatter.java)    | 🟢 Easy | Java Basic |        ✅         |
-| String | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/StringIntroduction.java)      | 🟢 Easy | Java Basic |
+| String | [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/StringIntroduction.java)      | 🟢 Easy | Java Basic |        ✅         |
 | String | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/Substring.java)           | 🟢 Easy | Java Basic |
 | String | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/SubstringComparisons.java)     | 🟢 Easy | Java Basic |
 | String | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/StringReverse.java)         | 🟢 Easy | Java Basic |

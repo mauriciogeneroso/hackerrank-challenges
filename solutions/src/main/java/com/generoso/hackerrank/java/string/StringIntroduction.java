@@ -13,11 +13,11 @@ public class StringIntroduction {
 
         System.out.println(A.length() + B.length());
         System.out.println(isLexicographically(A, B));
-        System.out.println(A.compareTo(B) > 0 ? "Yes" : "No");
         System.out.println(capitalizeFirstLetter(A) + " " + capitalizeFirstLetter(B));
     }
 
     static String isLexicographically(String a, String b) {
+//        return a.compareTo(b) > 0 ? "Yes" : "No";
         int size = Math.min(a.length(), b.length());
 
         int i = 0;
