@@ -109,9 +109,9 @@ Completed challenges:
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](solutions/sql/aggregation/15.weather-observation-station-18.sql) | 🟡 Medium | Basic |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](solutions/sql/aggregation/16.weather-observation-station-19.sql) | 🟡 Medium | Basic |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | | 🟡 Medium | Intermediate |
-| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](solutions/sql/basic-join/1.asia-population.sql) | 🟢 Easy   | Basic |
-| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](solutions/sql/basic-join/2.africa-cities.sql) | 🟢 Easy   | Basic |
-| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](solutions/sql/basic-join/3.population-avg.sql) | 🟢 Easy   | Basic |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](solutions/sql/basic-join/1.asia-population.sql) | 🟢 Easy   | Basic |        ✅         |
+| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](solutions/sql/basic-join/2.africa-cities.sql) | 🟢 Easy   | Basic |        ✅         |
+| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](solutions/sql/basic-join/3.population-avg.sql) | 🟢 Easy   | Basic |        ✅         |
 | Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](solutions/sql/basic-join/4.the-report.sql) | 🟡 Medium | Intermediate |
 | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](solutions/sql/basic-join/5.the-competitors.sql) | 🟡 Medium | Intermediate |
 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | | 🟡 Medium | Intermediate |
