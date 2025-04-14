@@ -122,8 +122,8 @@ Completed challenges:
 | Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | | 🟡 Medium | Intermediate |
 | Advanced Join | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | | 🔴 Hard   | Intermediate |
 | Advanced Join | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | | 🔴 Hard   | Advanced |
-| Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | | 🟢 Easy   | Advanced |
-| Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | | 🟢 Easy   | Advanced |
+| Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | | 🟢 Easy   | Advanced |        ✅         |
+| Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | | 🟢 Easy   | Advanced |        ✅         |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | | 🟡 Medium | Advanced |
 
 </details>
