@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Anagrams {
 
+    // best solution, return faster
     static boolean isAnagram(String a, String b) {
         if (a.length() != b.length()) {
             return false;
@@ -38,7 +39,7 @@ public class Anagrams {
         return true;
     }
 
-    //
+    // bad solution
     static boolean isAnagram2(String a, String b) {
         if (a.length() != b.length()) {
             return false;
@@ -68,8 +69,19 @@ public class Anagrams {
         return true;
     }
 
-    // poor solution
     static boolean isAnagram3(String a, String b) {
+        if (a.length() != b.length()) {
+            return false;
+        }
+
+        Map<Integer, Integer> counter = new HashMap<>();
+        a.toUpperCase().chars().forEach(c -> counter.put(c, counter.getOrDefault(c, 0) + 1));
+        b.toUpperCase().chars().forEach(c -> counter.put(c, counter.getOrDefault(c, 0) - 1));
+        return counter.values().stream().allMatch(v -> v == 0);
+    }
+
+    // poor solution
+    static boolean isAnagram4(String a, String b) {
         char[] first = a.toCharArray();
         char[] second = b.toCharArray();
 
