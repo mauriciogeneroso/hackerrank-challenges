@@ -9,11 +9,10 @@ import java.util.Set;
 //Write your code here
 class Add {
 
-    void add(int... value) {
-
+    void add(int... values) {
         int sum = 0;
         StringBuilder sb = new StringBuilder();
-        for (int v : value) {
+        for (int v : values) {
             sum += v;
             sb.append(v).append("+");
         }
@@ -21,6 +20,19 @@ class Add {
         sb.append("=");
         sb.append(sum);
         System.out.println(sb);
+
+//        StringBuilder sb = new StringBuilder();
+//        int sum = 0;
+//        for (int i = 0; i < values.length; i++) {
+//            sum += values[i];
+//            sb.append(values[i]);
+//            if (i < values.length - 1) {
+//                sb.append("+");
+//            }
+//        }
+//
+//        sb.append("=").append(sum);
+//        System.out.println(sb);
     }
 }
 

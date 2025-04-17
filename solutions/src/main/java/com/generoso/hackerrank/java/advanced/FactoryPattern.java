@@ -29,7 +29,7 @@ class FoodFactory {
             case "pizza":
                 return new Pizza();
         }
-        return null;
+        throw new IllegalArgumentException("Invalid food type");
     }
 }
 
