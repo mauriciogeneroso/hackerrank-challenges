@@ -16,8 +16,8 @@ abstract class Book {
 //Write MyBook class here
 class MyBook extends Book {
 
-    void setTitle(String s) {
-        title = s;
+    void setTitle(String title) {
+        this.title = title;
     }
 }
 

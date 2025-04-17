@@ -1,6 +1,7 @@
 package com.generoso.hackerrank.java.oop;
 
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 interface AdvancedArithmetic {
     int divisor_sum(int n);
@@ -10,15 +11,16 @@ interface AdvancedArithmetic {
 class MyCalculator implements AdvancedArithmetic {
 
     public int divisor_sum(int n) {
-        int sum = 0;
+        return IntStream.rangeClosed(1, n).filter(i -> n % i == 0).sum();
 
-        for (int i = 1; i <= n; i++) {
-            if (n % i == 0) {
-                sum += i;
-            }
-        }
-
-        return sum;
+//        int sum = 0;
+//        for (int i = 1; i <= n; i++) {
+//            if (n % i == 0) {
+//                sum += i;
+//            }
+//        }
+//
+//        return sum;
     }
 }
 
