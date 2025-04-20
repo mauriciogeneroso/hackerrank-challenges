@@ -29,6 +29,7 @@ Repetitions:
 
 Grouping and Capturing
 - () -> parentheses are grouping a sequence
+- (?: ) -> non-capturing group. It is useful if we do not need the group to capture its match
 - | -> alternative
 - \b -> assert position at a word boundary
    - Before the first character: if the first character is a word character
