@@ -47,6 +47,6 @@ Assertions:
 - regex_1(?=regex2) -> the positive lookahead (?=) asserts regex_1 to be immediately followed by regex_2.
      - The lookahead is excluded from the match string
 - regex_1(?!regex2) -> negative lookahead, the opposite from positive lookahead
-- (?<=regex_2)regex_1 -> positive lookbehind asserts regex_1 to be immediately proceeded by regex_1
+- (?<=regex_2)regex_1 -> positive lookbehind asserts regex_1 to be immediately proceeded by regex_2
      - The lookbehind is excluded from the match string
 - (?<!regex_2)regex_1 -> negative lookbehind, the opposite from positive lookbehind
