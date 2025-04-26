@@ -255,7 +255,7 @@ Completed challenges:
 | Applications | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number/problem) |               [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/SplitThePhoneNumbers.java)                |       | 🟢 Easy |   ✅    |
 | Applications | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes/problem) |                                                                                                                            |       | 🟢 Easy |
 | Applications | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us/problem) |               [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/TheBritishAndAmericanStyleOfSpelling.java)                |       | 🟢 Easy |   ✅    |
-| Applications | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2/problem) |                                                                                                                            |       | 🟢 Easy |
+| Applications | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2/problem) |               [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/UKAndUSPart2.java)                |       | 🟢 Easy |   ✅    |
 
 </details>
 
