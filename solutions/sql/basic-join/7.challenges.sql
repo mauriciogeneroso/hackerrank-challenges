@@ -1,16 +1,43 @@
-SELECT H.HACKER_ID, 
-       H.NAME,
-       COUNT(1)
-  FROM HACKERS H,
-       CHALLENGES C
- WHERE H.HACKER_ID = C.HACKER_ID
- GROUP BY H.HACKER_ID, H.NAME
-HAVING COUNT(1) NOT IN (SELECT DISTINCT COUNT(1)
-                          FROM CHALLENGES 
-                         WHERE HACKER_ID <> H.HACKER_ID
-                         GROUP BY HACKER_ID
-                        HAVING COUNT(1) < (SELECT MAX(AUX.QUANTITY)
-                                             FROM (SELECT COUNT(1) AS QUANTITY
-                                                     FROM CHALLENGES CH
-                                                    GROUP BY CH.HACKER_ID) AS AUX))
- ORDER BY 3 DESC, 1;
+--SELECT H.HACKER_ID,
+--       H.NAME,
+--       COUNT(1)
+--  FROM HACKERS H,
+--       CHALLENGES C
+-- WHERE H.HACKER_ID = C.HACKER_ID
+-- GROUP BY H.HACKER_ID, H.NAME
+--HAVING COUNT(1) NOT IN (SELECT DISTINCT COUNT(1)
+--                          FROM CHALLENGES
+--                         WHERE HACKER_ID <> H.HACKER_ID
+--                         GROUP BY HACKER_ID
+--                        HAVING COUNT(1) < (SELECT MAX(AUX.QUANTITY)
+--                                             FROM (SELECT COUNT(1) AS QUANTITY
+--                                                     FROM CHALLENGES CH
+--                                                    GROUP BY CH.HACKER_ID) AS AUX))
+-- ORDER BY 3 DESC, 1;
+
+-----------
+
+WITH CHALLENGE_COUNTS AS (
+    SELECT HACKER_ID,
+           COUNT(1) AS COUNTER
+      FROM CHALLENGES
+     GROUP BY HACKER_ID
+),
+MAX_COUNTER AS (
+    SELECT MAX(COUNTER) AS MAX_VALUE
+    FROM CHALLENGE_COUNTS
+),
+FILTERED_COUNTS AS (
+    SELECT HACKER_ID, COUNTER
+      FROM CHALLENGE_COUNTS AS CC
+     WHERE COUNTER = (SELECT MAX_VALUE FROM MAX_COUNTER)
+        OR COUNTER NOT IN (SELECT COUNTER
+                             FROM CHALLENGE_COUNTS
+                            WHERE HACKER_ID <> CC.HACKER_ID
+                            GROUP BY COUNTER
+                            HAVING COUNTER < (SELECT MAX_VALUE FROM MAX_COUNTER))
+)
+SELECT H.HACKER_ID, H.NAME, FC.COUNTER
+  FROM HACKERS H
+  JOIN FILTERED_COUNTS FC ON H.HACKER_ID = FC.HACKER_ID
+ORDER BY FC.COUNTER DESC, H.HACKER_ID;
