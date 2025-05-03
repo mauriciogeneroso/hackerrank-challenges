@@ -1,0 +1,9 @@
+SELECT DISTINCT LEAST(F1.X, F1.Y),
+       GREATEST(F1.X, F1.Y)
+  FROM FUNCTIONS F1 JOIN FUNCTIONS F2
+    ON F1.X = F2.Y AND F1.Y = F2.X
+ WHERE F1.X != F1.Y
+   OR (F1.X = F1.Y AND (SELECT COUNT(1)
+                          FROM FUNCTIONS F3
+                         WHERE F3.X = F1.X AND F3.Y = F1.Y) > 1)
+ORDER BY 1;
