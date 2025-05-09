@@ -13,6 +13,7 @@ Completed challenges:
 * 🟢 Easy: 158
 * 🟡 Medium: 19
 * 🔴 Hard: 2
+* 🌟 Total: 179
 
 ## Challenges:
 
