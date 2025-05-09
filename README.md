@@ -10,9 +10,9 @@
 
 Completed challenges:
 
-* 🟢 Easy: x
-* 🟡 Medium: x
-* 🔴 Hard: x
+* 🟢 Easy: 158
+* 🟡 Medium: 19
+* 🔴 Hard: 2
 
 ## Challenges:
 
