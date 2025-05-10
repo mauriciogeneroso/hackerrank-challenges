@@ -11,9 +11,9 @@
 Completed challenges:
 
 * 🟢 Easy: 158
-* 🟡 Medium: 19
+* 🟡 Medium: 20
 * 🔴 Hard: 2
-* 🌟 Total: 179
+* 🌟 Total: 180
 
 ## Challenges:
 
@@ -155,7 +155,7 @@ Completed challenges:
 | String | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) |            [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/Anagrams.java)            |     | 🟢 Easy   | Java Basic                  |        ✅         |
 | String | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/JavaStringTokens.java)        |     | 🟢 Easy   | Java Basic                  |        ✅         |
 | String | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/PatternSyntaxChecker.java)      |     | 🟢 Easy   | Java Basic                  |        ✅         |
-| String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) |                                                                                                             |     | 🟡 Medium | Java Intermediate           |
+| String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/JavaRegex.java)            |     | 🟡 Medium | Java Intermediate           |        ✅         |
 | String | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) |                                                                                                             |     | 🟡 Medium | Java Basic                  |
 | String | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/ValidUsernameRegularExpression.java) |     | 🟢 Easy   | Java Basic                  |        ✅         |
 | String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) |                                                                                                             |     | 🟡 Medium | Java Basic                  |
