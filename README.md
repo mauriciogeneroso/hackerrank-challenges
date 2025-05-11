@@ -65,6 +65,7 @@ Completed challenges:
 <details><summary>SQL</summary>
 
 - [SQL website](https://www.hackerrank.com/domains/sql)
+- Solutions for MySQL
 
 | Subdomains | Challenge     |                              Solution (MySQL)                               | Notes | Difficult    | SQL Skills | Review |
 | ------------- | ------------- |:---------------------------------------------------------------------------:|-------|--------------| ------------ |:------:|
@@ -158,7 +159,7 @@ Completed challenges:
 | String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/JavaRegex.java)            |     | 🟡 Medium | Java Intermediate           |        ✅         |
 | String | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) |                                                                                                             |     | 🟡 Medium | Java Basic                  |
 | String | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/ValidUsernameRegularExpression.java) |     | 🟢 Easy   | Java Basic                  |        ✅         |
-| String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) |                                                                                                             |     | 🟡 Medium | Java Basic                  |
+| String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/TagContentExtractor.java)       |     | 🟡 Medium | Java Basic                  |        ✅         |
 | BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/PrimalityTest.java)        |     | 🟢 Easy   | Java Basic                  |        ✅         |
 | BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/JavaBigInteger.java)       |     | 🟢 Easy   | Java Basic                  |        ✅         |
 | BigNumber | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem) |                                                                                                             |     | 🟡 Medium | Java Basic                  |
