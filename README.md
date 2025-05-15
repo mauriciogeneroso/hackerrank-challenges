@@ -60,6 +60,36 @@ Completed challenges:
 
 - [10 Days of Statistics website](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
+| Day | Challenge                                                                                                                          | Solution (Java) | Notes | Difficult | Completed |
+|-----|------------------------------------------------------------------------------------------------------------------------------------|:---------------:|-------|:---------:|-----------|
+| 0   | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)                                       |                 |       |  🟢 Easy  |           |
+| 0   | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)                                                   |                 |       |  🟢 Easy  |           |
+| 1   | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)                                                           |                 |       |  🟢 Easy  |           |
+| 1   | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)                                       |                 |       |  🟢 Easy  |           |
+| 1   | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)                                         |                 |       |  🟢 Easy  |           |
+| 2   | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem)                                                       |       ---       |       |  🟢 Easy  |           |
+| 2   | [More Dice](https://www.hackerrank.com/challenges/s10-mcq-2/problem)                                                               |       ---       |       |  🟢 Easy  |           |
+| 2   | [Compound Event Probability](https://www.hackerrank.com/challenges/s10-mcq-3/problem)                                              |       ---       |       |  🟢 Easy  |           |
+| 3   | [Conditional Probability](https://www.hackerrank.com/challenges/s10-mcq-4/problem)                                                 |       ---       |       |  🟢 Easy  |           |
+| 3   | [Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem)                                                  |       ---       |       |  🟢 Easy  |           |
+| 3   | [Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem)                                                         |       ---       |       |  🟢 Easy  |           |
+| 4   | [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)                               |                 |       |  🟢 Easy  |           |
+| 4   | [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)                              |                 |       |  🟢 Easy  |           |
+| 4   | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)                             |                 |       |  🟢 Easy  |           |
+| 4   | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)                            |                 |       |  🟢 Easy  |           |
+| 5   | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)                                 |                 |       |  🟢 Easy  |           |
+| 5   | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)                                |                 |       |  🟢 Easy  |           |
+| 5   | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)                                   |                 |       |  🟢 Easy  |           |
+| 5   | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)                                  |                 |       |  🟢 Easy  |           |
+| 6   | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)                       |                 |       |  🟢 Easy  |           |
+| 6   | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)                      |                 |       |  🟢 Easy  |           |
+| 6   | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)                     |                 |       |  🟢 Easy  |           |
+| 7   | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)             |                 |       |  🟢 Easy  |           |
+| 7   | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem) |                 |       |  🟢 Easy  |           |
+| 8   | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)                     |                 |       |  🟢 Easy  |           |
+| 9   | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem?isFullScreen=true)                    |       ---       |       |  🟢 Easy  |           |
+| 5   | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)                         |                 |       | 🟡 Medium |           |
+
 </details>
 
 <details><summary>SQL</summary>
@@ -158,7 +188,7 @@ Completed challenges:
 | String | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/PatternSyntaxChecker.java)      |       | 🟢 Easy   | Java Basic                  |        ✅         |
 | String | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/JavaRegex.java)            |       | 🟡 Medium | Java Intermediate           |        ✅         |
 | String | [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/JavaRegex2DuplicateWords.java)            | *     | 🟡 Medium | Java Basic                  |        ✅         |
-| String | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/ValidUsernameRegularExpression.java) |       | 🟢 Easy   | Java Basic                  |        ✅         |
+| String | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/ValidUsernameRegularExpression.java) |       | 🟢 Easy   | Java Basic                  |        ✅         |
 | String | [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/string/TagContentExtractor.java)       |       | 🟡 Medium | Java Basic                  |        ✅         |
 | BigNumber | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/PrimalityTest.java)        |       | 🟢 Easy   | Java Basic                  |        ✅         |
 | BigNumber | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/bignumbers/JavaBigInteger.java)       |       | 🟢 Easy   | Java Basic                  |        ✅         |
