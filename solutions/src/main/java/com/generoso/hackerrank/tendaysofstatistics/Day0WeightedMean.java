@@ -23,14 +23,11 @@ public class Day0WeightedMean {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        Result.weightedMean(vals, weights);
+        weightedMean(vals, weights);
 
         bufferedReader.close();
     }
-}
 
-
-class Result {
     public static void weightedMean(List<Integer> values, List<Integer> weightList) {
         int sumOfvaluesMultipliedWithWeight = 0;
         int weightSum = 0;

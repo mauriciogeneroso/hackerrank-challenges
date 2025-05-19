@@ -37,9 +37,9 @@ public class Day0MeanMedianAndMode {
         int n = sortedArray.length;
         if (n % 2 == 0) {
             return (sortedArray[n / 2 - 1] + sortedArray[n / 2]) / 2.0;
-        } else {
-            return sortedArray[n / 2];
         }
+
+        return sortedArray[n / 2];
     }
 
     private static int mode(Map<Integer, Integer> frequencyMap) {

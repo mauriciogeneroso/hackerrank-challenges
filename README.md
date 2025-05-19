@@ -11,10 +11,10 @@
 
 Completed challenges:
 
-* 🟢 Easy: 159
+* 🟢 Easy: 161
 * 🟡 Medium: 24
 * 🔴 Hard: 2
-* 🌟 Total: 185
+* 🌟 Total: 187
 
 ## Challenges:
 
@@ -65,7 +65,7 @@ Completed challenges:
 |-----|------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------:|-------|:---------:|:---------:|
 | 0   | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)                                       | [Solution](solutions/src/main/java/com/generoso/hackerrank/tendaysofstatistics/Day0MeanMedianAndMode.java) |       |  🟢 Easy  |     ✅     |
 | 0   | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)                                                   |   [Solution](solutions/src/main/java/com/generoso/hackerrank/tendaysofstatistics/Day0WeightedMean.java)    |       |  🟢 Easy  |     ✅     |
-| 1   | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)                                                           |                                                                                                            |       |  🟢 Easy  |           |
+| 1   | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem)                                                           |     [Solution](solutions/src/main/java/com/generoso/hackerrank/tendaysofstatistics/Day1Quartiles.java)     |       |  🟢 Easy  |     ✅     |
 | 1   | [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)                                       |                                                                                                            |       |  🟢 Easy  |           |
 | 1   | [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)                                         |                                                                                                            |       |  🟢 Easy  |           |
 | 2   | [Basic Probability](https://www.hackerrank.com/challenges/s10-mcq-1/problem)                                                       |                                                    ---                                                     |       |  🟢 Easy  |           |
