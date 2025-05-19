@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 24
+* 🟡 Medium: 25
 * 🔴 Hard: 2
-* 🌟 Total: 187
+* 🌟 Total: 188
 
 ## Challenges:
 
@@ -206,7 +206,7 @@ Completed challenges:
 | Data Structure     | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem)                                                     |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/Generics.java)         |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Data Structure     | [Java Comparator](https://www.hackerrank.com/challenges/java-comparator/problem)                                                 |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/JavaComparator.java)      |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Data Structure     | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)                                                             |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/Sort.java)           |       | 🟢 Easy   | Java Basic                   |     ✅     |
-| Data Structure     | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)                                                       |                                                                                                             |       | 🟡 Medium | Problem Solving Intermediate |
+| Data Structure     | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)                                                       |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/Sort.java)           | *     | 🟡 Medium | Problem Solving Intermediate |     ✅     |
 | Data Structure     | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)                                                         |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/JavaBitSet.java)        |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Data Structure     | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)                                         |                                                                                                             |       | 🟡 Medium | Java Intermediate            |
 | OOP                | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                           |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InheritanceI.java)            |       | 🟢 Easy   | Java Basic                   |     ✅     |
