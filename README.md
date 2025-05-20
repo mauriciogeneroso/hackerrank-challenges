@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 26
+* 🟡 Medium: 27
 * 🔴 Hard: 2
-* 🌟 Total: 189
+* 🌟 Total: 190
 
 ## Challenges:
 
@@ -228,7 +228,7 @@ Completed challenges:
 | Advanced           | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                                        |                                                                                                             |       | 🟡 Medium | -                            |
 | Advanced           | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)                                               |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Annotations.java)          |       | 🟡 Medium | -                            |
 | Advanced           | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)                                          |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Covariance.java)          |       | 🟢 Easy   | -                            |     ✅     |
-| Advanced           | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)                                 |                                                                                                             |       | 🟡 Medium | -                            |
+| Advanced           | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)                                 |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/JavalambdaExpressions.java)     |       | 🟡 Medium | -                            |     ✅     |
 | Advanced           | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)                                                               |             [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/MD5.java)              |       | 🟡 Medium | -                            |
 | Advanced           | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)                                                            |            [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SHA256.java)            |       | 🟡 Medium | -                            |
 
