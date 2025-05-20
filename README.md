@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 25
+* 🟡 Medium: 26
 * 🔴 Hard: 2
-* 🌟 Total: 188
+* 🌟 Total: 189
 
 ## Challenges:
 
@@ -208,7 +208,7 @@ Completed challenges:
 | Data Structure     | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)                                                             |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/Sort.java)           |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Data Structure     | [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)                                                       |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/Sort.java)           | *     | 🟡 Medium | Problem Solving Intermediate |     ✅     |
 | Data Structure     | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)                                                         |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/JavaBitSet.java)        |       | 🟢 Easy   | Java Basic                   |     ✅     |
-| Data Structure     | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)                                         |                                                                                                             |       | 🟡 Medium | Java Intermediate            |
+| Data Structure     | [Java Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)                                         |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/datastructure/JavaPriorityQueue.java)    |       | 🟡 Medium | Java Intermediate            |     ✅     |
 | OOP                | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                           |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InheritanceI.java)            |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | OOP                | [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem)                                          |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/InheritanceII.java)           |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | OOP                | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)                                         |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/oop/AbstractClass.java)           |       | 🟢 Easy   | Java Basic                   |     ✅     |

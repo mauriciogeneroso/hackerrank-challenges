@@ -4,31 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Student {
-    private final int id;
-    private final String fname;
-    private final double cgpa;
-
-    public Student(int id, String fname, double cgpa) {
-        super();
-        this.id = id;
-        this.fname = fname;
-        this.cgpa = cgpa;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public String getFname() {
-        return fname;
-    }
-
-    public double getCgpa() {
-        return cgpa;
-    }
-}
-
 public class Sort {
 
     public static void main(String[] args) {
@@ -54,7 +29,7 @@ public class Sort {
                 return -1;
             }
 
-            int nameOrder = o1.getFname().compareTo(o2.getFname());
+            int nameOrder = o1.getName().compareTo(o2.getName());
             if (nameOrder == 0) {
                 return Integer.compare(o1.getId(), o2.getId());
             }
@@ -62,7 +37,7 @@ public class Sort {
             return nameOrder;
         });
         for (Student st : studentList) {
-            System.out.println(st.getFname());
+            System.out.println(st.getName());
         }
     }
 }
