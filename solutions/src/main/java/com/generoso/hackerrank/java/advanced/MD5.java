@@ -15,15 +15,16 @@ import java.util.Scanner;
 public class MD5 {
 
     public static void main(String[] args) throws NoSuchAlgorithmException, UnsupportedEncodingException {
-        Scanner scan = new Scanner(System.in);
-        String s = scan.nextLine();
+        try (Scanner scan = new Scanner(System.in)) {
+            String input = scan.nextLine();
 
-        MessageDigest md = MessageDigest.getInstance("MD5");
-        byte[] messageDigest = md.digest(s.getBytes());
+            MessageDigest md = MessageDigest.getInstance("MD5");
+            byte[] messageDigest = md.digest(input.getBytes());
 
-        BigInteger number = new BigInteger(1, messageDigest);
-        String hash = number.toString(16);
+            BigInteger number = new BigInteger(1, messageDigest);
+            String hash = number.toString(16);
 
-        System.out.println(hash);
+            System.out.println(hash);
+        }
     }
 }
