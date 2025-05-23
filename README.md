@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 32
+* 🟡 Medium: 33
 * 🔴 Hard: 2
-* 🌟 Total: 195
+* 🌟 Total: 196
 
 ## Challenges:
 
@@ -222,7 +222,7 @@ Completed challenges:
 | Advanced           | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)                          |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Varargs.java)            |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)                         |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/ReflectionAttributes.java)     |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)                                                  |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/CanYouAccess.java)         | **    | 🟡 Medium | -                            |     ✅     |
-| Advanced           | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                                                     |                                                                                                             |       | 🟡 Medium | Java Basic                   |
+| Advanced           | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                                                     |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/PrimeChecker.java)         |       | 🟡 Medium | Java Basic                   |     ✅     |
 | Advanced           | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)                                               |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/FactoryPattern.java)        |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)                                           |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SingletonPattern.java)       |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                                        |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/JavaVisitorPattern.java)      | **    | 🟡 Medium | -                            |     ✅     |
