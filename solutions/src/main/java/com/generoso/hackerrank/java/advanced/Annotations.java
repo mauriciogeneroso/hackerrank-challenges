@@ -11,19 +11,20 @@ import java.util.Scanner;
 @Retention(RetentionPolicy.RUNTIME)
 @interface FamilyBudget {
     String userRole() default "GUEST";
-    int moneySpend() default 0;
+
+    int budgetLimit() default 0;
 }
 
 class FamilyMember {
 
-    @FamilyBudget(userRole = "SENIOR", moneySpend = 100)
+    @FamilyBudget(userRole = "SENIOR", budgetLimit = 100)
     public void seniorMember(int budget, int moneySpend) {
         System.out.println("Senior Member");
         System.out.println("Spend: " + moneySpend);
         System.out.println("Budget Left: " + (budget - moneySpend));
     }
 
-    @FamilyBudget(userRole = "JUNIOR", moneySpend = 50)
+    @FamilyBudget(userRole = "JUNIOR", budgetLimit = 50)
     public void juniorUser(int budget, int moneySpend) {
         System.out.println("Junior Member");
         System.out.println("Spend: " + moneySpend);
@@ -47,12 +48,12 @@ public class Annotations {
                         FamilyBudget family = method
                                 .getAnnotation(FamilyBudget.class);
                         String userRole = family.userRole();
-                        int budgetLimit = family.moneySpend();
+                        int budgetLimit = family.budgetLimit();
                         if (userRole.equals(role)) {
-                            if(budgetLimit >= spend){
+                            if (budgetLimit >= spend) {
                                 method.invoke(FamilyMember.class.newInstance(),
                                         budgetLimit, spend);
-                            }else{
+                            } else {
                                 System.out.println("Budget Limit Over");
                             }
                         }
