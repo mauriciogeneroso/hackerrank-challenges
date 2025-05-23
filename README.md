@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 31
+* 🟡 Medium: 32
 * 🔴 Hard: 2
-* 🌟 Total: 194
+* 🌟 Total: 195
 
 ## Challenges:
 
@@ -221,11 +221,11 @@ Completed challenges:
 | Exception Handling | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)                                 |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/exceptions/ExceptionsHandling.java)     |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)                          |           [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Varargs.java)            |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes/problem)                         |     [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/ReflectionAttributes.java)     |       | 🟢 Easy   | Java Basic                   |     ✅     |
-| Advanced           | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)                                                  |                                                                                                             |       | 🟡 Medium | -                            |
+| Advanced           | [Can You Access?](https://www.hackerrank.com/challenges/can-you-access/problem)                                                  |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/CanYouAccess.java)         | **    | 🟡 Medium | -                            |     ✅     |
 | Advanced           | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker/problem)                                                     |                                                                                                             |       | 🟡 Medium | Java Basic                   |
 | Advanced           | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory/problem)                                               |        [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/FactoryPattern.java)        |       | 🟢 Easy   | Java Basic                   |     ✅     |
 | Advanced           | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem)                                           |       [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/SingletonPattern.java)       |       | 🟢 Easy   | Java Basic                   |     ✅     |
-| Advanced           | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                                        |                                                                                                             | **    | 🟡 Medium | -                            |     ✅     |
+| Advanced           | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern/problem)                                        |      [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/JavaVisitorPattern.java)      | **    | 🟡 Medium | -                            |     ✅     |
 | Advanced           | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations/problem)                                               |         [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Annotations.java)          |       | 🟡 Medium | -                            |     ✅     |
 | Advanced           | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance/problem)                                          |          [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/Covariance.java)          |       | 🟢 Easy   | -                            |     ✅     |
 | Advanced           | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)                                 |    [Solution](solutions/src/main/java/com/generoso/hackerrank/java/advanced/JavalambdaExpressions.java)     |       | 🟡 Medium | -                            |     ✅     |
