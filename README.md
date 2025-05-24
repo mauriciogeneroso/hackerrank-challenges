@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 34
+* 🟡 Medium: 35
 * 🔴 Hard: 2
-* 🌟 Total: 197
+* 🌟 Total: 198
 
 ## Challenges:
 
@@ -273,7 +273,7 @@ Completed challenges:
 | Applications           | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem)                                                 |           [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/IPAddressValidation.java)           | **    | 🟢 Easy   |     ✅     |
 | Applications           | [Find a Word](https://www.hackerrank.com/challenges/find-a-word/problem)                                                                     |                [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/FindAWord.java)                |       | 🟡 Medium |     ✅     |
 | Applications           | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem)                                       |         [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectTheEmailAddresses.java)         |       | 🟡 Medium |     ✅     |
-| Applications           | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name/problem)                                               |                                                                                                                             |       | 🟡 Medium |
+| Applications           | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name/problem)                                               |           [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectTheDomainName.java)           |       | 🟡 Medium |     ✅     |
 | Applications           | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)                         |                                                                                                                             |       | 🟡 Medium |
 | Applications           | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)         | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectingValidLatitudeAndLongitudePairs.java) | **    | 🟢 Easy   |     ✅     |
 | Applications           | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem)                                                         |            [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/HackerRankTweets.java)             |       | 🟢 Easy   |     ✅     |

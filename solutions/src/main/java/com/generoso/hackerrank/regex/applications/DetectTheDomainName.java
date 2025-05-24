@@ -7,9 +7,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-public class DetectTheEmailAddresses {
+public class DetectTheDomainName {
 
-    private static final Pattern PATTERN = Pattern.compile("([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})");
+    private static final Pattern PATTERN = Pattern.compile("https?://(?:www\\d*\\.)?([a-zA-Z0-9.-]+\\.[a-zA-Z]{2,})");
 
     public static void main(String[] args) {
         Set<String> emails = new HashSet<>();
