@@ -6,18 +6,18 @@ import java.util.regex.Pattern;
 
 public class BuildingASmartIDEIdentifyingComments {
 
-    private static final Pattern REGEX = Pattern.compile("(//[^\\n]*|/\\*[\\s\\S]*?\\*/)");
+    private static final Pattern COMMENT_PATTERN = Pattern.compile("(\\/)(\\*)(.|\\s)*?\\2\\1|(\\/\\/.*)");
 
     public static void main(String[] args) {
         try(Scanner scan = new Scanner(System.in)) {
             StringBuilder code = new StringBuilder();
             while (scan.hasNextLine()) {
-                code.append(scan.nextLine()).append("\n");
+                code.append(scan.nextLine().trim()).append("\n");
             }
 
-            Matcher matcher = REGEX.matcher(code.toString());
+            Matcher matcher = COMMENT_PATTERN.matcher(code.toString());
             while (matcher.find()) {
-                System.out.println(matcher.group(1));
+                System.out.println(matcher.group());
             }
         }
     }
