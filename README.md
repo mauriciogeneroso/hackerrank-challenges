@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 35
+* 🟡 Medium: 36
 * 🔴 Hard: 2
-* 🌟 Total: 198
+* 🌟 Total: 199
 
 ## Challenges:
 
@@ -274,7 +274,7 @@ Completed challenges:
 | Applications           | [Find a Word](https://www.hackerrank.com/challenges/find-a-word/problem)                                                                     |                [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/FindAWord.java)                |       | 🟡 Medium |     ✅     |
 | Applications           | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem)                                       |         [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectTheEmailAddresses.java)         |       | 🟡 Medium |     ✅     |
 | Applications           | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name/problem)                                               |           [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectTheDomainName.java)           |       | 🟡 Medium |     ✅     |
-| Applications           | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)                         |                                                                                                                             |       | 🟡 Medium |
+| Applications           | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)                         |  [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/BuildingASmartIDEIdentifyingComments.java)   |       | 🟡 Medium |     ✅     |
 | Applications           | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)         | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectingValidLatitudeAndLongitudePairs.java) | **    | 🟢 Easy   |     ✅     |
 | Applications           | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem)                                                         |            [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/HackerRankTweets.java)             |       | 🟢 Easy   |     ✅     |
 | Applications           | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem)                                       |                                                                                                                             |       | 🟢 Easy   |
