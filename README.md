@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 161
-* 🟡 Medium: 36
+* 🟡 Medium: 37
 * 🔴 Hard: 2
-* 🌟 Total: 199
+* 🌟 Total: 200
 
 ## Challenges:
 
@@ -283,7 +283,7 @@ Completed challenges:
 | Applications           | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem)                                                             |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/FindHackerRank.java)              |       | 🟢 Easy   |     ✅     |
 | Applications           | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi/problem)                                                                         |                [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/SayingHi.java)                 |       | 🟢 Easy   |     ✅     |
 | Applications           | [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language/problem)                                                     |           [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/HackerRankLanguage.java)            |       | 🟢 Easy   |     ✅     |
-| Applications           | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/problem)         |                                                                                                                             |       | 🟡 Medium |
+| Applications           | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection/problem)         |      [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/ProgrammingLanguageDetection.java)       |       | 🟡 Medium |     ✅     |
 | Applications           | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number/problem)                                                        |          [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/SplitThePhoneNumbers.java)           |       | 🟢 Easy   |     ✅     |
 | Applications           | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes/problem)                                                      |          [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectHTMLAttributes.java)           |       | 🟢 Easy   |     ✅     |
 | Applications           | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us/problem)                                        |  [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/TheBritishAndAmericanStyleOfSpelling.java)   |       | 🟢 Easy   |     ✅     |
