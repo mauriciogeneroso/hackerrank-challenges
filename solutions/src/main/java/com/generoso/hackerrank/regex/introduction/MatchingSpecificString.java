@@ -11,19 +11,21 @@ public class MatchingSpecificString {
         tester.checker("hackerrank");
     }
 
-    static class RegexTest {
+    private static class RegexTest {
 
         public void checker(String regexPattern) {
-            Scanner input = new Scanner(System.in);
-            String testString = input.nextLine();
-            Pattern p = Pattern.compile(regexPattern);
-            Matcher m = p.matcher(testString);
-            int count = 0;
-            while (m.find()) {
-                count += 1;
+            String testString;
+            try (Scanner input = new Scanner(System.in)) {
+                testString = input.nextLine();
+            }
+            Pattern pattern = Pattern.compile(regexPattern);
+            Matcher matcher = pattern.matcher(testString);
+            int counter = 0;
+            while (matcher.find()) {
+                counter += 1;
             }
 
-            System.out.format("Number of matches : %d", count);
+            System.out.format("Number of matches : %d", counter);
         }
     }
 

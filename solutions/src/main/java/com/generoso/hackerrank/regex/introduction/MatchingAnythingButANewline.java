@@ -12,13 +12,15 @@ public class MatchingAnythingButANewline {
     }
 
     static class Tester {
-        public void check(String pattern){
-            Scanner scanner = new Scanner(System.in);
-            String testString = scanner.nextLine();
-            Pattern p = Pattern.compile(pattern);
-            Matcher m = p.matcher(testString);
-            boolean match = m.matches();
-            System.out.format("%s", match);
+        public void check(String regexPattern) {
+            String testString;
+            try (Scanner scanner = new Scanner(System.in)) {
+                testString = scanner.nextLine();
+            }
+            Pattern pattern = Pattern.compile(regexPattern);
+            Matcher matcher = pattern.matcher(testString);
+            boolean isMatching = matcher.matches();
+            System.out.format("%s", isMatching);
         }
     }
 }

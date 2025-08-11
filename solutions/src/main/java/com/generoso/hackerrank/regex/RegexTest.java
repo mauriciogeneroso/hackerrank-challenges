@@ -6,12 +6,14 @@ import java.util.regex.Pattern;
 
 public class RegexTest {
 
-    public void checker(String regexPattern){
-        Scanner input = new Scanner(System.in);
-        String testString = input.nextLine();
-        Pattern p = Pattern.compile(regexPattern);
-        Matcher m = p.matcher(testString);
-        System.out.println(m.find());
+    public void checker(String regexPattern) {
+        String testString;
+        try (Scanner input = new Scanner(System.in)) {
+            testString = input.nextLine();
+        }
+        Pattern pattern = Pattern.compile(regexPattern);
+        Matcher matcher = pattern.matcher(testString);
+        System.out.println(matcher.find());
     }
 
 }
