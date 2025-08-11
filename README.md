@@ -11,10 +11,10 @@
 
 Completed challenges:
 
-* 🟢 Easy: 161
+* 🟢 Easy: 162
 * 🟡 Medium: 37
 * 🔴 Hard: 2
-* 🌟 Total: 200
+* 🌟 Total: 201
 
 ## Challenges:
 
@@ -277,7 +277,7 @@ Completed challenges:
 | Applications           | [Building a Smart IDE: Identifying comments](https://www.hackerrank.com/challenges/ide-identifying-comments/problem)                         |  [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/BuildingASmartIDEIdentifyingComments.java)   |       | 🟡 Medium |     ✅     |
 | Applications           | [Detecting Valid Latitude and Longitude Pairs](https://www.hackerrank.com/challenges/detecting-valid-latitude-and-longitude/problem)         | [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectingValidLatitudeAndLongitudePairs.java) | **    | 🟢 Easy   |     ✅     |
 | Applications           | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem)                                                         |            [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/HackerRankTweets.java)             |       | 🟢 Easy   |     ✅     |
-| Applications           | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem)                                       |                                                                                                                             |       | 🟢 Easy   |
+| Applications           | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper/problem)                                       |       [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/BuildAStackExchangeScraper.java)        |       | 🟢 Easy   |     ✅     |
 | Applications           | [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number/problem)                                 |       [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/UtopianIdentificationNumber.java)       |       | 🟢 Easy   |     ✅     |
 | Applications           | [Valid PAN format](https://www.hackerrank.com/challenges/valid-pan-format/problem)                                                           |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/ValidPanFormat.java)              |       | 🟢 Easy   |     ✅     |
 | Applications           | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank/problem)                                                             |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/FindHackerRank.java)              |       | 🟢 Easy   |     ✅     |
