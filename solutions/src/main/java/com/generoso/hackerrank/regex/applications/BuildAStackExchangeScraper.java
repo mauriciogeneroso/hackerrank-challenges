@@ -14,13 +14,12 @@ public class BuildAStackExchangeScraper {
     );
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
         StringBuilder html = new StringBuilder();
-
-        while (scan.hasNextLine()) {
-            html.append(scan.nextLine()).append("\n");
+        try (Scanner scan = new Scanner(System.in)) {
+            while (scan.hasNextLine()) {
+                html.append(scan.nextLine()).append("\n");
+            }
         }
-        scan.close();
 
         Matcher matcher = REGEX_PATTERN.matcher(html.toString());
         while (matcher.find()) {

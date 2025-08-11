@@ -12,9 +12,9 @@
 Completed challenges:
 
 * 🟢 Easy: 162
-* 🟡 Medium: 37
+* 🟡 Medium: 38
 * 🔴 Hard: 2
-* 🌟 Total: 201
+* 🌟 Total: 202
 
 ## Challenges:
 
@@ -266,7 +266,7 @@ Completed challenges:
 | Assertions             | [Negative Lookahead](https://www.hackerrank.com/challenges/negative-lookahead/problem)                                                       |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookahead.java)             | *     | 🟢 Easy   |     ✅     |
 | Assertions             | [Positive Lookbehind](https://www.hackerrank.com/challenges/positive-lookbehind/problem)                                                     |            [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/PositiveLookbehind.java)             |       | 🟢 Easy   |     ✅     |
 | Assertions             | [Negative Lookbehind](https://www.hackerrank.com/challenges/negative-lookbehind/problem)                                                     |            [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/assertions/NegativeLookbehind.java)             |       | 🟢 Easy   |     ✅     |
-| Applications           | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)                                                         |                                                                                                                             |       | 🟡 Medium |
+| Applications           | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links/problem)                                                         |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectHtmllinks.java)             |       | 🟡 Medium |     ✅     |     
 | Applications           | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags/problem)                                                           |             [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/DetectHtmlTags.java)              | **    | 🟢 Easy   |     ✅     |
 | Applications           | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring/problem)                                                              |              [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/FindASubWord.java)               |       | 🟢 Easy   |     ✅     |
 | Applications           | [Alien Username](https://www.hackerrank.com/challenges/alien-username/problem)                                                               |              [Solution](solutions/src/main/java/com/generoso/hackerrank/regex/applications/AlienUsername.java)              |       | 🟢 Easy   |     ✅     |
